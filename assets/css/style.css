@@ -35,10 +35,12 @@ a {
 .flex-item {
     list-style-type: none;
 }
+/* Giving underline for nav */
 .active {
     border-bottom: 1px solid;
 
 }
+/*H1 Styling*/
 h1{
     display: inline-block;
     margin-top: 10px;
@@ -49,18 +51,41 @@ h1{
 /*Moving down the nav*/
 .flex-container {
    margin-top: 20px;
+   margin-left: 20px;
     
+}
+/*Making the nav responsitive for phones*/
+.flex-item{
+    padding-bottom: 10px;
+    font-family: "Black 900", sans-serif;
 }
 
    
 /*Main*/
 /*Footer*/
 
+
 /*Styling the site for tablet 768 px*/
 @media screen and (min-width: 768px){
+
+   /*Moving the h1 one to the left*/
+    h1{
+    padding: 10px;
+   }
+/*Making the divs on one line*/
     div {
         display: inline-block;
+        
     }
+    /*Responsitive nav element for tablets*/
+    .flex-container {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: auto;
+    }
+    .flex-item{
+        padding:10px;}
+   
 
 }
 

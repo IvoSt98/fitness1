@@ -31,30 +31,41 @@ a {
     color: #000000;
     text-decoration: none;
 }
-
+/*Make the bullet points to di disappear */
+.flex-item {
+    list-style-type: none;
+}
 .active {
     border-bottom: 1px solid;
+
 }
 h1{
+    display: inline-block;
     margin-top: 10px;
     font-family: "Black 900", sans-serif;
-    letter-spacing: 1px
+    letter-spacing: 1px;
+     
 }
+/*Moving down the nav*/
 .flex-container {
    margin-top: 20px;
     
 }
+
    
 /*Main*/
 /*Footer*/
 
 /*Styling the site for tablet 768 px*/
 @media screen and (min-width: 768px){
-
+    div {
+        display: inline-block;
+    }
 
 }
 
 /*Styling the site for tablet 992 px*/
 @media screen and (min-width: 992px) {
-
+ 
+   
 }

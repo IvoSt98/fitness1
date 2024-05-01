@@ -60,7 +60,7 @@ h1 {
 
 }
 
-/*Making the nav responsitive for phones*/
+/*Making the nav responsive */
 .flex-item {
     padding-bottom: 10px;
     font-family: "Black 900", sans-serif;
@@ -123,23 +123,20 @@ main {
         margin-top: auto;
         margin-right: 15px;
     }
-
+/* Giving padding to the nav */
     .flex-item {
         padding: 10px;
     }
-
+/* Streching the main */
     main {
         font-family: "Lato", sans-serif;
-        /* Streching the main */
         margin-top: 100px;
     }
-   
-
 }
 
 /*Styling the site for tablet 992 px*/
 @media screen and (min-width: 992px) {
-
+/*Respo*/
     #img1 {
         width: 500px;
         float: left;
@@ -161,6 +158,10 @@ main {
         margin-left: 450px;
     }
 
+
+    
+
+    
     
 
 

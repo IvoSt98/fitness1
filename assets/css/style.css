@@ -91,8 +91,8 @@ main {
 }
 .description {
     text-align: center;
-    padding-left: 9%;
-        padding-right:70px;
+    padding-left: 30px;
+        padding-right:30px;
 }
 .giveahand{
     text-align: center;
@@ -155,7 +155,7 @@ main {
     .description {
         padding-right: 30px;
        margin-right:40px ;
-        margin-left: 450px;
+        margin-left: 530px;
     }
 
 

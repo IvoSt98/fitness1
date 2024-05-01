@@ -26,6 +26,7 @@ header {
 }
 
 /*Header*/
+
 a {
     color: #000000;
     text-decoration: none;
@@ -36,6 +37,16 @@ a {
 }
 h1{
     font-family: "Black 900", sans-serif;
+    letter-spacing: 1px
 }
 /*Main*/
 /*Footer*/
+
+/*Styling the site for tablet 768 px*/
+@media screen and (min-width: 768px){
+
+
+}
+
+/*Styling the site for tablet 992 px*/
+@media screen and (min-width: 992px) {

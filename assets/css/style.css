@@ -7,7 +7,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 /*General setings*/
 /*General style for the footer*/
 footer {
@@ -33,65 +32,74 @@ a {
     color: #000000;
     text-decoration: none;
 }
+
 /*Make the bullet points to di disappear */
 .flex-item {
     list-style-type: none;
 }
+
 /* Giving underline for nav */
 .active {
     border-bottom: 1px solid;
 
 }
+
 /*H1 Styling*/
-h1{
+h1 {
     display: inline-block;
     margin-top: 10px;
     font-family: "Black 900", sans-serif;
     letter-spacing: 1px;
-     
-}
-/*Moving down the nav*/
-.flex-container {
-   margin-top: 20px;
-   margin-left: 20px;
-    
-}
-/*Making the nav responsitive for phones*/
-.flex-item{
-    padding-bottom: 10px;
-    font-family: "Black 900", sans-serif;
-    
+
 }
 
-   
+/*Moving down the nav*/
+.flex-container {
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+/*Making the nav responsitive for phones*/
+.flex-item {
+    padding-bottom: 10px;
+    font-family: "Black 900", sans-serif;
+
+}
+
+
 /*Main*/
 main {
-font-family: "Lato", sans-serif;
-/* Streching the main */
-margin-top: 150px;
+    font-family: "Lato", sans-serif;
+    /* Streching the main */
+    margin-top: 150px;
 }
+
 /* Responsive img */
-#img1{
-    
+#img1 {
+
     width: 900px;
     flex: 100%;
     max-width: 100%;
 }
+
 /*Footer*/
 
 
 /*Styling the site for tablet 768 px*/
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
 
-   /*Moving the h1 one to the left*/
-    h1{
-    padding: 10px;
-   }
-/*Making the divs on one line*/
+    /*Moving the h1 one to the left*/
+    h1 {
+        padding: 10px;
+    }
+
+    /*Making the divs on one line*/
     div {
         display: inline-block;
-        
+
     }
+
     /*Responsitive nav element for tablets*/
     .flex-container {
         display: flex;
@@ -99,39 +107,45 @@ margin-top: 150px;
         margin-top: auto;
         margin-right: 15px;
     }
-    .flex-item{
-        padding:10px;
-    }
-        main {
-            font-family: "Lato", sans-serif;
-            /* Streching the main */
-            margin-top: 100px;
-            }
 
-            
+    .flex-item {
+        padding: 10px;
+    }
+
+    main {
+        font-family: "Lato", sans-serif;
+        /* Streching the main */
+        margin-top: 100px;
+    }
+
+
 }
 
 /*Styling the site for tablet 992 px*/
 @media screen and (min-width: 992px) {
- 
-   #img1{
-    width: 500px;
-   
-   }
-   .flex-container {
-    margin-right: 30px;
+
+    #img1 {
+        width: 500px;
+
     }
+
+    .flex-container {
+        margin-right: 30px;
+    }
+
+
+    #img1 {
+        float: left;
+    }
+
+    #div1 {
+        display: inline-block;
+        font-size: large;
+
+    }
+
     
-  
-#img1{
-   float:left;
-}
-#div1{
-    display: inline-block;
-    font-size: large;
-    text-align: center
-   }
-  
-   
+
+
 
 }

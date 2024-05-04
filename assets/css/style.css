@@ -95,8 +95,8 @@ main {
 /*Styling the first section (the h2 and p)*/
 .description {
     text-align: center;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .giveahand {
@@ -104,6 +104,8 @@ main {
     text-align: center;
     color: #1fad18;
     font-family: "Black 900", sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 /*Div about us */
@@ -123,6 +125,8 @@ main {
     padding-left: 20%;
     text-align: center;
 }
+
+
 
 /*Footer*/
 

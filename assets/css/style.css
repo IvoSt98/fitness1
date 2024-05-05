@@ -18,7 +18,7 @@ footer {
 header {
     background-color: #ffffff;
     color: #000000;
-    font-family: "Lato", sans-serif;
+    font-family: "Black 900", sans-serif;
 
     /* Stick to the page */
     position: fixed;
@@ -55,17 +55,16 @@ h1 {
 }
 
 /*Moving down the nav*/
-.flex-container {
+#flex-container {
     margin-top: 20px;
     margin-left: 20px;
-
+    
 }
 
 /*Making the nav responsive */
 .flex-item {
     padding-bottom: 10px;
-    
-
+    text-transform: uppercase;
 }
 
 
@@ -177,7 +176,7 @@ td {
     }
 
     /*Responsitive nav element for tablets*/
-    .flex-container {
+    #flex-container {
         display: flex;
         justify-content: flex-end;
         margin-top: auto;
@@ -205,7 +204,7 @@ td {
         float: left;
     }
 
-    .flex-container {
+    #flex-container {
         margin-right: 30px;
     }
 

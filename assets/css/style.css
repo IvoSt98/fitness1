@@ -206,6 +206,10 @@ th {
         font-family: "Black 900", sans-serif;
         margin-top: 100px;
     }
+/*Offer*/
+    .offer~ul{
+        text-align: left;
+    }
 }
 
 /*Styling the site for tablet 992 px*/

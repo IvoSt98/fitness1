@@ -116,14 +116,21 @@ main {
     width: 100%;
 
 }
-/**/
 .about-us{
     text-align: center;
     color: #1fad18;
     font-family: "Black 900", sans-serif;
     padding-top: 20px
 }
+/*Styling the table*/
+table {
+    text-align: center;
+    border-spacing: 5px; 
+}
 
+td {
+    border-bottom: 1px solid ;
+}
 /* Color for the text in the second section */
 #div2 p {
     color: #ffffff;

@@ -89,6 +89,7 @@ main {
     color: #1fad18;
     font-family: "Black 900", sans-serif;
     padding-top: 20px;
+   
 }
 
 /*Styling the first section (the h2 and p)*/
@@ -117,11 +118,16 @@ main {
 
 }
 
-.about-us {
+#about-us {
     text-align: center;
     color: #1fad18;
     font-family: "Black 900", sans-serif;
-    padding-top: 20px
+    padding-top: 30px;
+   
+}
+.about-us{
+    text-align: center;
+    font-family: "Black 900", sans-serif;
 }
 
 /* Color for the text in the second section */
@@ -137,9 +143,11 @@ main {
 table {
     text-align: center;
     border-spacing: 5px;
+   
 }
 
 td {
+    font-family: "Black 900", sans-serif;
     border-bottom: 1px solid;
 }
 
@@ -148,7 +156,8 @@ td {
     text-align: center;
     color: #1fad18;
     font-family: "Black 900", sans-serif;
-    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 
 }
 
@@ -231,12 +240,13 @@ td {
     .info {
         padding-left: 57%;
         padding-right: 10%;
+
     }
 
     main {
         font-family: "Black 900", sans-serif;}
 
 
-
+        
 
 }

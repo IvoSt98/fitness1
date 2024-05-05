@@ -12,11 +12,12 @@
 li {
     list-style-type: none;
 }
+
 /*General style for the footer*/
 footer {
-    margin-top:10%;
+    margin-top: 10%;
     padding-bottom: 5%;
-    
+
 }
 
 /*Genarel style for the header*/
@@ -169,23 +170,22 @@ th {
     font-family: "Black 900", sans-serif;
     padding-top: 30px;
     padding-bottom: 10px;
-   
+
 }
 
 .offer~ul {
     text-align: center;
     font-family: "Black 900", sans-serif;
-    
+
 }
 
-
-
 /*Footer*/
-footer{
+footer {
     background-color: #000000;
     font-family: "Black 900", sans-serif;
 }
-footer p{
+
+footer p {
     color: white;
     text-align: center;
 }
@@ -205,6 +205,7 @@ footer p{
 
 
 
+
 /*Styling the site for tablet 768 px*/
 @media screen and (min-width: 768px) {
 
@@ -214,10 +215,6 @@ footer p{
     }
 
     /*Making the divs on one line*/
-    div {
-        display: inline-block;
-
-    }
 
     /*Responsitive nav element for tablets*/
     #flex-container {
@@ -238,23 +235,32 @@ footer p{
         margin-top: 100px;
     }
 
-/*Section Offer*/
-   #div3{
-        float: left;
-        margin-top: 15px;
-        padding-left: 10%;
+    /*Section Offer flexing the content to be on one line and responsive*/
+    div {
+        display: inline-block;
+    }
+
+    #flex {
+        gap: 40px;
+        display: flex;
+        justify-content: center
+    }
+
+    #div3 {
+        flex: 1 150px;
 
     }
-    #div4{ float: right;
-        margin-top: 15px;
-        padding-right: 10%;
-           
+
+    #div4 {
+        flex: 1 150px;
     }
+
     /*Footer*/
     footer {
-        margin-top:35%;
+
+        margin-top: 31%;
         padding-bottom: 5%;
-        
+
     }
 }
 
@@ -263,7 +269,8 @@ footer p{
     main {
         font-family: "Black 900", sans-serif;
     }
-    /*Respo*/
+
+    /*First section*/
     #img1 {
         width: 500px;
         float: left;
@@ -274,7 +281,6 @@ footer p{
     }
 
     #div1 {
-        display: inline-block;
         font-size: large;
 
     }
@@ -295,17 +301,21 @@ footer p{
         padding-right: 10%;
 
     }
-#div3{
-    padding-left: 17%;
-}
-#div4{
-    padding-right: 17%;
-}
-   /*Footer*/
-   footer {
-    margin-top:25%;
-    padding-bottom: 2%;
-    
-}
+/*Third section */
+    #div3 {
+        flex: 1 40%;
+    }
 
+    #div4 { 
+        flex: 1 40%;
+    }
+    
+    /*Footer*/
+    footer {
+        margin-top: 30%;
+        padding-bottom: 5%;
+
+    }
+
+   
 }

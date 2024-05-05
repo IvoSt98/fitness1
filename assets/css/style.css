@@ -64,7 +64,7 @@ h1 {
 /*Making the nav responsive */
 .flex-item {
     padding-bottom: 10px;
-    font-family: "Black 900", sans-serif;
+    
 
 }
 
@@ -109,28 +109,21 @@ main {
 }
 
 /*Div about us */
-#div2 { 
+#div2 {
     background-color: #000000;
     padding-bottom: 30px;
     margin-top: 10px;
     width: 100%;
 
 }
-.about-us{
+
+.about-us {
     text-align: center;
     color: #1fad18;
     font-family: "Black 900", sans-serif;
     padding-top: 20px
 }
-/*Styling the table*/
-table {
-    text-align: center;
-    border-spacing: 5px; 
-}
 
-td {
-    border-bottom: 1px solid ;
-}
 /* Color for the text in the second section */
 #div2 p {
     color: #ffffff;
@@ -139,6 +132,30 @@ td {
     padding-left: 20%;
     text-align: center;
 }
+
+/*Table*/
+table {
+    text-align: center;
+    border-spacing: 5px;
+}
+
+td {
+    border-bottom: 1px solid;
+}
+
+/*Offer*/
+.offer {
+    text-align: center;
+    color: #1fad18;
+    font-family: "Black 900", sans-serif;
+    padding: 20px;
+
+}
+
+.offer~ul {
+    text-align: center;
+}
+
 
 
 
@@ -173,8 +190,8 @@ td {
     }
 
     /* Streching the main */
-    main {
-        font-family: "Lato", sans-serif;
+   main {
+            font-family: "Black 900", sans-serif;
         margin-top: 100px;
     }
 }
@@ -199,21 +216,23 @@ td {
     }
 
     /* First section styling the contain */
-     .description {
-       padding-left: 57%;
-       padding-right: 10%;
+    .description {
+        padding-left: 57%;
+        padding-right: 10%;
     }
 
     .giveahand {
         padding-left: 57%;
-       padding-right: 10%;
+        padding-right: 10%;
     }
-    .info{
+
+    .info {
         padding-left: 57%;
-       padding-right: 10%;
+        padding-right: 10%;
     }
 
-
+    main {
+        font-family: "Black 900", sans-serif;}
 
 
 

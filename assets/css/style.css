@@ -14,7 +14,8 @@ li {
 }
 /*General style for the footer*/
 footer {
-    margin-top:20% ;
+    margin-top:10%;
+    padding-bottom: 5%;
     
 }
 
@@ -180,6 +181,28 @@ th {
 
 
 /*Footer*/
+footer{
+    background-color: #000000;
+    font-family: "Black 900", sans-serif;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+
+/* Adding the social media icons,saw it from love running */
+#social-media {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff;
+}
+
 
 
 /*Styling the site for tablet 768 px*/

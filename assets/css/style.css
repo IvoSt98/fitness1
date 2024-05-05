@@ -93,6 +93,7 @@ main {
 
 /*Styling the first section (the h2 and p)*/
 .description {
+    font-family: "Black 900", sans-serif;
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
@@ -153,7 +154,9 @@ td {
 
 .offer~ul {
     text-align: center;
+    font-family: "Black 900", sans-serif;
 }
+
 
 
 

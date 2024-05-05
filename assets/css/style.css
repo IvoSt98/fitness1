@@ -143,17 +143,18 @@ main {
 /*Table*/
 table {
     margin-right: auto;
-   margin-left: auto;
+    margin-left: auto;
     text-align: center;
     border-spacing: 5px;
-    
-
-
 }
 
 td {
     font-family: "Black 900", sans-serif;
     border-bottom: 1px solid;
+}
+
+th {
+    font-family: "Black 900", sans-serif;
 }
 
 /*Offer*/
@@ -163,20 +164,12 @@ td {
     font-family: "Black 900", sans-serif;
     padding-top: 30px;
     padding-bottom: 10px;
-
-}
-th{
-    font-family: "Black 900", sans-serif;
 }
 
 .offer~ul {
     text-align: center;
     font-family: "Black 900", sans-serif;
 }
-
-
-
-
 
 /*Footer*/
 
@@ -254,8 +247,5 @@ th{
     main {
         font-family: "Black 900", sans-serif;
     }
-
-
-
 
 }

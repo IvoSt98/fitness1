@@ -165,6 +165,9 @@ td {
     padding-bottom: 10px;
 
 }
+th{
+    font-family: "Black 900", sans-serif;
+}
 
 .offer~ul {
     text-align: center;

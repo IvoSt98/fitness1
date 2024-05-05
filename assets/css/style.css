@@ -250,6 +250,12 @@ footer p{
         padding-right: 10%;
            
     }
+    /*Footer*/
+    footer {
+        margin-top:35%;
+        padding-bottom: 5%;
+        
+    }
 }
 
 /*Styling the site for tablet 992 px*/
@@ -295,6 +301,11 @@ footer p{
 #div4{
     padding-right: 17%;
 }
-   
+   /*Footer*/
+   footer {
+    margin-top:25%;
+    padding-bottom: 2%;
+    
+}
 
 }

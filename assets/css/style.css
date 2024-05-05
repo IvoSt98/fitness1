@@ -58,7 +58,7 @@ h1 {
 #flex-container {
     margin-top: 20px;
     margin-left: 20px;
-    
+
 }
 
 /*Making the nav responsive */
@@ -89,7 +89,7 @@ main {
     color: #1fad18;
     font-family: "Black 900", sans-serif;
     padding-top: 20px;
-   
+
 }
 
 /*Styling the first section (the h2 and p)*/
@@ -123,9 +123,10 @@ main {
     color: #1fad18;
     font-family: "Black 900", sans-serif;
     padding-top: 30px;
-   
+
 }
-.about-us{
+
+.about-us {
     text-align: center;
     font-family: "Black 900", sans-serif;
 }
@@ -141,9 +142,13 @@ main {
 
 /*Table*/
 table {
+    margin-right: auto;
+   margin-left: auto;
     text-align: center;
     border-spacing: 5px;
-   
+    
+
+
 }
 
 td {
@@ -201,8 +206,8 @@ td {
     }
 
     /* Streching the main */
-   main {
-            font-family: "Black 900", sans-serif;
+    main {
+        font-family: "Black 900", sans-serif;
         margin-top: 100px;
     }
 }
@@ -244,9 +249,10 @@ td {
     }
 
     main {
-        font-family: "Black 900", sans-serif;}
+        font-family: "Black 900", sans-serif;
+    }
 
 
-        
+
 
 }

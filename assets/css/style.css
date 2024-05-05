@@ -15,8 +15,8 @@ li {
 
 /*General style for the footer*/
 footer {
-    margin-top: 10%;
-    padding-bottom: 5%;
+    margin-top: 5%;
+    padding-bottom: 2%;
 
 }
 
@@ -183,6 +183,7 @@ th {
 footer {
     background-color: #000000;
     font-family: "Black 900", sans-serif;
+        
 }
 
 footer p {
@@ -256,12 +257,7 @@ footer p {
     }
 
     /*Footer*/
-    footer {
-
-        margin-top: 31%;
-        padding-bottom: 5%;
-
-    }
+    
 }
 
 /*Styling the site for tablet 992 px*/
@@ -301,21 +297,17 @@ footer p {
         padding-right: 10%;
 
     }
-/*Third section */
+
+    /*Third section */
     #div3 {
         flex: 1 40%;
     }
 
-    #div4 { 
+    #div4 {
         flex: 1 40%;
     }
-    
+
     /*Footer*/
-    footer {
-        margin-top: 30%;
-        padding-bottom: 5%;
-
-    }
-
    
+
 }

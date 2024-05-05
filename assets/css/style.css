@@ -9,8 +9,12 @@
 }
 
 /*General setings*/
+li {
+    list-style-type: none;
+}
 /*General style for the footer*/
 footer {
+    margin-top:20% ;
     background-color: black;
 }
 
@@ -164,12 +168,16 @@ th {
     font-family: "Black 900", sans-serif;
     padding-top: 30px;
     padding-bottom: 10px;
+   
 }
 
 .offer~ul {
     text-align: center;
     font-family: "Black 900", sans-serif;
+    
 }
+
+
 
 /*Footer*/
 
@@ -206,15 +214,26 @@ th {
         font-family: "Black 900", sans-serif;
         margin-top: 100px;
     }
-/*Offer*/
-    .offer~ul{
-        text-align: left;
+
+/*Section Offer*/
+   #div3{
+        float: left;
+        margin-top: 15px;
+        padding-left: 10%;
+
+    }
+    #div4{ float: right;
+        margin-top: 15px;
+        padding-right: 10%;
+           
     }
 }
 
 /*Styling the site for tablet 992 px*/
 @media screen and (min-width: 992px) {
-
+    main {
+        font-family: "Black 900", sans-serif;
+    }
     /*Respo*/
     #img1 {
         width: 500px;
@@ -247,9 +266,12 @@ th {
         padding-right: 10%;
 
     }
-
-    main {
-        font-family: "Black 900", sans-serif;
-    }
+#div3{
+    padding-left: 17%;
+}
+#div4{
+    padding-right: 17%;
+}
+   
 
 }

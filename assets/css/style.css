@@ -83,8 +83,8 @@ main {
 
 /* Responsive img */
 #img1 {
-
-    width: 991px;
+    height: 100%;
+    width: 100%;
     flex: 100%;
     max-width: 100%;
 }
@@ -183,7 +183,7 @@ th {
 footer {
     background-color: #000000;
     font-family: "Black 900", sans-serif;
-        
+
 }
 
 footer p {
@@ -196,6 +196,7 @@ footer p {
     margin-top: 20px;
     display: flex;
     justify-content: space-evenly;
+
 }
 
 #social-media i {
@@ -257,7 +258,7 @@ footer p {
     }
 
     /*Footer*/
-    
+
 }
 
 /*Styling the site for tablet 992 px*/
@@ -308,6 +309,6 @@ footer p {
     }
 
     /*Footer*/
-   
+
 
 }

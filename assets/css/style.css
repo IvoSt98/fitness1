@@ -301,10 +301,15 @@ footer p {
     }
 /*Img coach*/
 .coach-img{
-    margin-top: 50px;
+    margin-top: 5%;
+    height: 500px;
+    width:500px;
+    border-radius: 50%;
+    margin-left: 5%;
 }
 .move-down{
-    margin-top: 15%;
+    margin-top: 5%;
+    margin-right: 5%;
 }
 .flex{
     gap: 40px;
@@ -362,6 +367,7 @@ footer p {
     .div4{
         flex: 1 40%;
     }
+    
 
     /*Img coach center the h2*/
     .centre{

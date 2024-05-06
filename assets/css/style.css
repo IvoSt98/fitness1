@@ -76,7 +76,7 @@ h1 {
 
 /*Main*/
 main {
-    font-family: "Lato", sans-serif;
+    font-family: "Black 900", sans-serif;
     /* Streching the main */
     margin-top: 150px;
 }
@@ -92,15 +92,13 @@ main {
 /* First section styling the contain */
 .info {
     text-align: center;
-    color: #1fad18;
-    font-family: "Black 900", sans-serif;
+    color: #FF0000;
     padding-top: 20px;
 
 }
 
 /*Styling the first section (the h2 and p)*/
 .description {
-    font-family: "Black 900", sans-serif;
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
@@ -109,8 +107,8 @@ main {
 .giveahand {
     margin-bottom: 20px;
     text-align: center;
-    color: #1fad18;
-    font-family: "Black 900", sans-serif;
+    color: #FF0000;
+    
     padding-left: 20%;
     padding-right: 20%;
 }
@@ -126,15 +124,15 @@ main {
 
 #about-us {
     text-align: center;
-    color: #1fad18;
-    font-family: "Black 900", sans-serif;
+    color: #FF0000;
+    
     padding-top: 30px;
 
 }
 
 .about-us {
     text-align: center;
-    font-family: "Black 900", sans-serif;
+   
 }
 
 /* Color for the text in the second section */
@@ -166,7 +164,7 @@ th {
 /*Offer*/
 .offer {
     text-align: center;
-    color: #1fad18;
+    color: #FF0000;
     font-family: "Black 900", sans-serif;
     padding-top: 30px;
     padding-bottom: 10px;

@@ -187,6 +187,20 @@ th {
 
 }
 
+/* New file coaches.html */
+/*Styling the coach1 img*/
+#coach{
+    margin-top: 200px;
+    height: 350px;
+    width: 100%;
+    max-width: 350px;
+    border-radius: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 /*Footer*/
 footer {
     background-color: #000000;

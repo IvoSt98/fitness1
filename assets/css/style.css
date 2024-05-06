@@ -189,13 +189,14 @@ th {
 
 /* New file coaches.html */
 /*Styling the coach1 img*/
-#coach{
-    margin-top: 200px;
-    height: 350px;
+#coach-img{
+    flex: 100%;
+    max-width: 100%;
     width: 100%;
-    max-width: 350px;
+    max-height: 768px;
     border-radius: 50%;
     display: block;
+    margin-top: 200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -286,9 +287,12 @@ footer p {
     #div4 {
         flex: 1 150px;
     }
-/*Img coach1*/
-#coach{
-    margin-top: 100px;
+/*Img coach*/
+#coach-img{
+    margin-top: 50px;
+}
+#div4{
+    margin-top: 15%;
 }
 }
 
@@ -336,7 +340,11 @@ footer p {
         flex: 1 40%;
     }
 
-    /*Footer*/
+    /*Img coach center the h2*/
+    .centre{
+        padding-left: 0%;
+        padding-right: 0%;
+    }
 
 
 }

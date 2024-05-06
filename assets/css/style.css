@@ -40,6 +40,15 @@ a {
     text-decoration: none;
     
 }
+ul{
+    margin-top: 20px;
+    
+}
+ul>li{
+    text-transform: uppercase;
+    padding: 5px;
+    margin-left: 10px;
+}
 
 /*Make the bullet points to di disappear */
 .flex-item {
@@ -227,8 +236,7 @@ footer p {
     ul>li {
         display: inline-block;
         text-transform: uppercase;
-        
-        margin-top: auto;
+         margin-top: auto;
         margin-right: 15px;
     }
 

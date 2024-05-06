@@ -38,6 +38,7 @@ header {
 a {
     color: #000000;
     text-decoration: none;
+    
 }
 
 /*Make the bullet points to di disappear */
@@ -217,17 +218,22 @@ footer p {
     /*Making the divs on one line*/
 
     /*Responsitive nav element for tablets*/
-    #flex-container {
-        display: flex;
-        justify-content: flex-end;
+     ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    }
+    ul>li {
+        display: inline-block;
+        text-transform: uppercase;
+        
         margin-top: auto;
         margin-right: 15px;
     }
 
     /* Giving padding to the nav */
-    .flex-item {
-        padding: 10px;
-    }
+   
 
     /* Streching the main */
     main {
@@ -240,7 +246,7 @@ footer p {
         display: inline-block;
     }
 
-    #flex {
+     #flex{
         gap: 40px;
         display: flex;
         justify-content: center
@@ -271,9 +277,6 @@ footer p {
         float: left;
     }
 
-    #flex-container {
-        margin-right: 30px;
-    }
 
     #div1 {
         font-size: large;

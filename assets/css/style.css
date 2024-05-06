@@ -199,6 +199,11 @@ th {
   margin-left: auto;
   margin-right: auto;
 }
+.black{
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+}
 
 
 /*Footer*/
@@ -254,8 +259,6 @@ footer p {
          margin-top: auto;
         margin-right: 15px;
     }
-
-    /* Giving padding to the nav */
    
 
     /* Streching the main */
@@ -283,9 +286,10 @@ footer p {
     #div4 {
         flex: 1 150px;
     }
-
-    /*Footer*/
-
+/*Img coach1*/
+#coach{
+    margin-top: 100px;
+}
 }
 
 /*Styling the site for tablet 992 px*/

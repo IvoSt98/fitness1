@@ -191,7 +191,7 @@ th {
 /*Styling the coach1 img*/
 .coach-img{
     flex: 100%;
-    max-width: 100%;
+    max-width:100%;
     width: 100%;
     max-height: 768px;
     border-radius: 50%;
@@ -353,15 +353,8 @@ footer p {
 
     }
 
-    /*Third section */
-    #div3 {
-        flex: 1 40%;
-    }
+    /*Third section in index.html and every section in coaches.html */
     .div3{
-        flex: 1 40%;
-    }
-
-    #div4 {
         flex: 1 40%;
     }
     .div4{

@@ -38,13 +38,15 @@ header {
 a {
     color: #000000;
     text-decoration: none;
-    
+
 }
-ul{
+
+ul {
     margin-top: 20px;
-    
+
 }
-ul>li{
+
+ul>li {
     text-transform: uppercase;
     padding: 5px;
     margin-left: 10px;
@@ -108,17 +110,19 @@ main {
 }
 
 /*Styling the first section (the h2 and p)*/
+/*Center the text and giving some padding from left and right*/
 .description {
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
 }
 
+/*Space from the bootom, left and right. Giving it color and center the text*/
 .giveahand {
     margin-bottom: 20px;
     text-align: center;
     color: #FF0000;
-    
+
     padding-left: 20%;
     padding-right: 20%;
 }
@@ -131,18 +135,18 @@ main {
     width: 100%;
 
 }
-
+/*Giving color, space from the top and center it*/
 #about-us {
     text-align: center;
     color: #FF0000;
-    
+
     padding-top: 30px;
 
 }
 
 .about-us {
     text-align: center;
-   
+
 }
 
 /* Color for the text in the second section */
@@ -155,52 +159,53 @@ main {
 }
 
 /*Table*/
+/*Center the table*/
 table {
     margin-right: auto;
     margin-left: auto;
     text-align: center;
     border-spacing: 5px;
 }
-
+/*Giving smal line under the text and time(border)*/
 td {
-    font-family: "Black 900", sans-serif;
     border-bottom: 1px solid;
 }
 
-th {
-    font-family: "Black 900", sans-serif;
-}
+
 
 /*Offer*/
+/*Giving it color, center it and giving space from the top and bottom*/
 .offer {
     text-align: center;
     color: #FF0000;
-    font-family: "Black 900", sans-serif;
     padding-top: 30px;
     padding-bottom: 10px;
 
 }
 
+/*Center the offer ol*/
 .offer~ol {
     text-align: center;
-    font-family: "Black 900", sans-serif;
+    
 
 }
 
 /* New file coaches.html */
-/*Styling the coach1 img*/
-.coach-img{
+/*Styling the coach1 img to be responsive for all devices till 768px and to be on one line with the text and the table*/
+.coach-img {
     flex: 100%;
-    max-width:100%;
+    max-width: 100%;
     width: 100%;
     max-height: 768px;
     border-radius: 50%;
     display: block;
     margin-top: 200px;
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
-.black{
+
+/*Giving color to the p and center it*/
+.black {
     color: black;
     padding-right: 20px;
     padding-left: 20px;
@@ -208,12 +213,15 @@ th {
 
 
 /*Footer*/
+
+/*Giving backgrond color and font*/
 footer {
     background-color: #000000;
     font-family: "Black 900", sans-serif;
 
 }
 
+/*Center the text and giving a color*/
 footer p {
     color: white;
     text-align: center;
@@ -245,98 +253,92 @@ footer p {
         padding: 10px;
     }
 
-    /*Making the divs on one line*/
-
-    /*Responsitive nav element for tablets*/
-     ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    text-align: right;
+    /*Responsitive nav element*/
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        text-align: right;
     }
+
     ul>li {
         display: inline-block;
         text-transform: uppercase;
-         margin-top: auto;
+        margin-top: auto;
         margin-right: 15px;
     }
-   
 
-    /* Streching the main */
+
+    /*Moving down the main */
     main {
-        font-family: "Black 900", sans-serif;
         margin-top: 100px;
     }
 
-    /*Section Offer flexing the content to be on one line and responsive*/
+    /*Section Offer in index.html and in coaches.html, flexing the content to be on one line and responsive*/
     div {
         display: inline-block;
     }
 
-     #flex{
-        gap: 40px;
-        display: flex;
-        justify-content: center
-    }
-    .flex{
+    #flex {
         gap: 40px;
         display: flex;
         justify-content: center
     }
 
-    #div3 {
-        flex: 1 150px;
+    .flex {
+        gap: 40px;
+        display: flex;
+        justify-content: center
+    }
 
-    }
-    .div3{
+    /*Third section in index.html and every div3 and div4 in coaches.html to be flexed */
+    .div3 {
         flex: 1 150px;
     }
-    
 
-    #div4 {
+    .div4 {
         flex: 1 150px;
     }
-    .div4{
-        flex: 1 150px;
+
+    /*Img coach*/
+    .coach-img {
+        margin-top: 5%;
+        height: 500px;
+        width: 500px;
+        border-radius: 50%;
+        margin-left: 5%;
     }
-/*Img coach*/
-.coach-img{
-    margin-top: 5%;
-    height: 500px;
-    width:500px;
-    border-radius: 50%;
-    margin-left: 5%;
-}
-.move-down{
-    margin-top: 5%;
-    margin-right: 5%;
-}
-.flex{
-    gap: 40px;
-    display: flex;
-    justify-content: center
-}
+
+    /*Moving down the div4 in coaches.html*/
+    .move-down {
+        margin-top: 5%;
+        margin-right: 5%;
+    }
+
+    /*Flex all the content to be on one line in index.html(last section) the main div, same in coaches.html and style  */
+    .flex {
+        gap: 40px;
+        display: flex;
+        justify-content: center
+    }
 }
 
 /*Styling the site for tablet 992 px*/
 @media screen and (min-width: 992px) {
-    main {
-        font-family: "Black 900", sans-serif;
-    }
 
-    /*First section*/
+    /*First section making the img responnse*/
     #img1 {
         width: 500px;
         float: left;
     }
 
-
+    /*Making all of the text large in div1*/
     #div1 {
         font-size: large;
 
     }
 
-    /* First section styling the contain */
+    /* First section styling the to be in the center */
     .description {
         padding-left: 57%;
         padding-right: 10%;
@@ -347,23 +349,25 @@ footer p {
         padding-right: 10%;
     }
 
+    /*The first h2 elemennt in index.html and every h2 in coaaches.html*/
     .info {
         padding-left: 57%;
         padding-right: 10%;
 
     }
 
-    /*Third section in index.html and every section in coaches.html */
-    .div3{
+    /*Third section in index.html and every div3 and div4 in coaches.html to be flexed */
+    .div3 {
         flex: 1 40%;
     }
-    .div4{
+
+    .div4 {
         flex: 1 40%;
     }
-    
+
 
     /*Img coach center the h2*/
-    .centre{
+    .centre {
         padding-left: 0%;
         padding-right: 0%;
     }

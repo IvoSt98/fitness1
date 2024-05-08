@@ -135,6 +135,7 @@ main {
     width: 100%;
 
 }
+
 /*Giving color, space from the top and center it*/
 #about-us {
     text-align: center;
@@ -166,6 +167,7 @@ table {
     text-align: center;
     border-spacing: 5px;
 }
+
 /*Giving smal line under the text and time(border)*/
 td {
     border-bottom: 1px solid;
@@ -186,7 +188,7 @@ td {
 /*Center the offer ol*/
 .offer~ol {
     text-align: center;
-    
+
 
 }
 

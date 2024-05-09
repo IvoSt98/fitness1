@@ -208,7 +208,7 @@ td {
 
 /*Giving color to the p and center it*/
 .black {
-    color: black;
+    color: #000000;
     padding-right: 20px;
     padding-left: 20px;
 }
@@ -219,6 +219,7 @@ td {
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
+    background-color: #000000;
 }
 
 /*Making the footer to go up*/

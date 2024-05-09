@@ -213,6 +213,20 @@ td {
     padding-left: 20px;
 }
 
+/*Background img in contactus.html*/
+#sign-up {
+    background-image: url("../images/hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+/*Making the footer to go up*/
+#go-up {
+    margin-top: 0px;
+}
+
+
 
 /*Footer*/
 
@@ -323,6 +337,7 @@ footer p {
         display: flex;
         justify-content: center
     }
+
 }
 
 /*Styling the site for tablet 992 px*/

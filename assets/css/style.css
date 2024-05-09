@@ -261,7 +261,14 @@ footer p {
 
 #form{
     color: #ffffff;
+    padding: 30px;
 }
+fieldset>h2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
 
 
 

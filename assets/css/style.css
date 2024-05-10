@@ -231,6 +231,9 @@ td {
     text-transform: uppercase;
     
 }
+input{
+    color: #ffffff;
+}
 
 /*Style the labels*/
 .label{

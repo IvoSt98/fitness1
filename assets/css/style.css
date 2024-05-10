@@ -392,6 +392,13 @@ button{
         justify-content: center
     }
 
+  
+    #form{
+        display: flex;
+  align-items: center;
+  justify-content: center; 
+    }
+
 }
 
 /*Styling the site for tablet 992 px*/

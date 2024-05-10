@@ -43,35 +43,38 @@
         <section id="sign-up">
             <form id="form">
                 <fieldset>
-                <h2>Sign Up and choose <br> which coach you would <br> like to train with!</h2>
-                <label for="fname" class="label">First Name</label>
-                <input type="text" id="fname" name="f_name" class="input" required >
-                <br>
-                <label for="lname" class="label">Last Name</label>
-                <input type="text" id="lname" name="l_name" class="input" required >
-                <br>
-                <label for="email-address" class="label">Email Address</label>
-                <input type="email" id="email-address" name="user_email" class="input" required>
-                <br>
-                <div>
-                    <div>
-                        <label for="emily-litovska" class="label">Emily Litovska</label>
-                        <input type="radio" id="emily-litovska" name="user-choose-emily-litovska" required>
-                    </div>
+                    <h2>Sign Up and choose <br> which coach you would <br> like to train with!</h2>
+                    <label for="fname" class="label">First Name</label>
+                    <input type="text" id="fname" name="f_name" class="input" required>
+                    <br>
+                    <label for="lname" class="label">Last Name</label>
+                    <input type="text" id="lname" name="l_name" class="input" required>
+                    <br>
+                    <label for="email-address" class="label">Email Address</label>
+                    <input type="email" id="email-address" name="user_email" class="input" required>
                     <br>
                     <div>
-                        <label for="john-smith" class="label">John Smith</label>
-                        <input type="radio" id="john-smith" name="user-choose-john-smith" required>
+                        <div>
+                            <input type="radio" id="emily-litovska" name="user-choose-emily-litovska"
+                                value="emily-litovska" required>
+                            <label for="emily-litovska" class="label">Emily Litovska</label>
+                        </div>
+                        <br>
+                        <div>
+                            <input type="radio" id="john-smith" name="user-choose-john-smith" value="john-smith"
+                                required>
+                            <label for="john-smith" class="label">John Smith</label>
+                        </div>
+                        <br>
+                        <div>
+
+                            <input type="radio" id="katerina-snow" name="user-choose-katerina-snow" value="katerina-snow" required>
+                            <label for="katerina-snow" class="label">Katerina Snow</label>
+                        </div>
                     </div>
                     <br>
-                    <div>
-                        <label for="katerina-snow" class="label">Katerina Snow</label>
-                        <input type="radio" id="katerina-snow" name="user-choose-katerina-snow" required>
+                    <button type="submit">Submit!</button>
                     </div>
-                </div>
-                <br>
-                <button type="submit">Submit!</button>
-                </div>
                 </fieldset>
             </form>
         </section>

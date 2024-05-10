@@ -221,6 +221,7 @@ td {
     height: 700px;
     background-color: #000000;
     padding: 50px 10%  10%;
+    
 }
 
 /*Making the footer to go up*/
@@ -265,9 +266,11 @@ footer p {
     color: #ffffff;
     padding: 30px;
     text-transform: uppercase;
+    
 }
 .label{
-   font-size: large;
+   font-size: 20px;
+   text-transform: capitalize;
 }
 fieldset{
     height: 550px;
@@ -277,6 +280,7 @@ fieldset{
     
 }
 fieldset>h2{
+    color: #FF0000;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -289,9 +293,19 @@ fieldset>h2{
    background: transparent;
    border:#ffffff solid 2px;
 }
-main{
+#main{
     display: flex;
     flex-direction: column;
+}
+button{
+    margin-top: 10px;
+    padding: 5px 50px;
+    font-size: 25px;
+    background-color: #FF0000;
+    color:#ffffff;
+    border-radius: 20px;
+    
+
 }
 
 

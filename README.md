@@ -5,7 +5,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
  
   Users of the website it will be able to find information as: day working hours, information about the team, what offer the website, biography about the coaches, conctact and sign up form.
   
-  ![Alt text](assets/images/screenshot.png)
+  ![Responsive Screenshot](assets/images/screenshot.png)
 
   ## Features
 **Navigation**
@@ -15,4 +15,5 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 * The color it's contrast black and white and the sections of informations are easy to be find, which good first impression
 to the user.
 
+![Navigation Screenshot](assets/images/navigation.png)
 

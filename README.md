@@ -117,3 +117,21 @@ to the user.
 
 * The code was tested with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) without any bugs [Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fivost98.github.io%2Ffitness1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
  
+ ## Deployment
+ 
+ ### GitHub Pages
+The project was deployed to GitHub Pages using the following steps...
+
+1.Log in to GitHub and locate the [GitHub Repository](https://github.com/IvoSt98/fitness1?tab=readme-ov-file)
+
+2.At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+
+-Alternatively Click [Here](https://github.com/IvoSt98/fitness1/settings) for a GIF demonstrating the process starting from Step 2.
+
+4.Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+5.Under "Source", click the dropdown called "None" and select "Master Branch".
+
+6.The page will automatically refresh.
+
+7.Scroll back down through the page to locate the now published site [link](https://github.com/IvoSt98/fitness1?tab=readme-ov-file) in the "GitHub Pages" section, it will be under the name Depployments.

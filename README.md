@@ -55,4 +55,11 @@ to the user.
 ![Footer Screenshot](assets/images/footer.png)
   
 
-  [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
+  [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html
+
+  **Coaches File**
+
+  * The coaches folder represent img of every one of the trainers.
+  * And also give information what is the name of the coach, short autobiography and working days and hours.
+  * With contrast red and black text on the white background for beter visual effect.
+

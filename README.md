@@ -89,9 +89,10 @@ Frequent User Goals
 
   ## Sign Up and Choose a Coach
 
-  * With creative background image which gives better user experiance.
-  * The sign up form is designed to colect data as a full name and e-mail address.
-  * It also give a choise with which coach the user will would like to train together.
+* Enhanced with a creative background image, the sign-up form offers an enriched user experience.
+* Collecting essential data such as full name and email address, the form also enables users to select their preferred coach.
+* The form is designed for seamless integration with the user's journey.
+
 
   ![Sign-Up form](assets/screenshots/sign-up.png)
 

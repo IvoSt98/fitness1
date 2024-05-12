@@ -53,8 +53,8 @@ Frequent User Goals
 
 ## Section About Us
 
-* With black background and red and white text showing the contrast with the section above and on the bottom of this section
-* Section About us shows exactly the way how the coaches will gonna help the user - through online sessions.
+* Against a black background, red and white text effectively contrasts with the preceding section and the section below.
+* The "About Us" section elucidates how coaches will assist users through online sessions, emphasizing the organization's commitment to personalized support.
 
 ![Second Section Screenshot](assets/screenshots/second-section.png)
 

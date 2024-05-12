@@ -44,10 +44,12 @@ to the user.
 * On the other right side of the section is the devision about Working time with the same color.
 * Giving a details which days and time it's open and which is closed.
 
-![First Section Screenshot](assets/images/offer-and-hours.png)
+![Third Section Screenshot](assets/images/offer-and-hours.png)
 
 **The Footer**
 
 * The footer section includes links to the social media Online Monster pages, which will be open in a new link.
 * The conctact form is provides an e-mail and phone contact if there has any questions.
 * The footer is identical on every page, allowing the user to connect immediately if needed.
+
+![Footer Screenshot](assets/images/footer.png)

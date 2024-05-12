@@ -135,7 +135,7 @@ Frequent User Goals
 
 * The code was tested with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) without any bugs [Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fivost98.github.io%2Ffitness1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-* By running the lighthouse in dev tools i commit that the site is with easy read colors and accessible.
+* Lighthouse in DevTools confirmed the site's readability and accessibility.
 ### About Home page
 ![Home page Screenshot lighthouse](assets/screenshots/lighthouse1.png)
 ![Home page Screenshot lighthouse](assets/screenshots/lighthouse2.png)

@@ -55,7 +55,7 @@ to the user.
 ![Footer Screenshot](assets/images/footer.png)
   
 
-  [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html
+  [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
 
   **Coaches File**
 
@@ -63,3 +63,7 @@ to the user.
   * And also give information what is the name of the coach, short autobiography and working days and hours.
   * With contrast red and black text on the white background for beter visual effect.
 
+![Coach Emily Litovska](assets/images/coach-screen.png)
+  ![Coach John Smith](assets/images/coach-screen2.png)
+  ![Coach Katerina Snow](assets/images/coach-screen3.png)
+  

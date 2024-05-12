@@ -110,7 +110,7 @@ Frequent User Goals
 * The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
 
 ## Typography
-* The sole font utilized is Black 900 in a sans-serif style, ensuring consistency and readability throughout the project.
+* The chosen font, Black 900 in a sans-serif style, has been carefully selected to maintain consistency and improve readability across the entire project.
 
 ## Wireframes
 * [For Home page](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/home.png)

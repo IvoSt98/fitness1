@@ -67,9 +67,9 @@ Frequent User Goals
 
 ## The Footer
 
-* The footer section includes links to the social media Online Monster pages, which will be open in a new link.
-* The conctact form is provides an e-mail and phone contact if there has any questions.
-* The footer is identical on every page, allowing the user to connect immediately if needed.
+* The footer section features links to Online Monster's social media pages, opening in new tabs for user convenience.
+* Additionally, the contact form provides email and phone contact options for inquiries.
+* Consistently present across all pages, the footer facilitates immediate user engagement.
 
 ![Footer Screenshot](assets/screenshots/footer.png)
   

@@ -116,6 +116,11 @@ to the user.
 * [Click here to see the Result without bugs](https://validator.w3.org/nu/?doc=https%3A%2F%2Fivost98.github.io%2Ffitness1%2F)
 
 * The code was tested with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) without any bugs [Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fivost98.github.io%2Ffitness1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Further Testing
+1. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+3. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
  
  ## Deployment
  

@@ -10,11 +10,10 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
   ## Features
 **Header with Navigation**
 
-* Our top left corner in the navigation, shows the name of our page - Online Monster!
-* Featured on all three pages, the full responsive navigation bar which opens every ot the links Home page, Coaches and Contact Us to a new page and is identical in each page to allow for easy navigation.
-* The color it's contrast black and white and the sections of informations are easy to be find, which good first impression
-to the user.
-* Тhe position of the navigation it's fixed to be easier for the user when he/she decide to change the page.
+* Our header prominently displays the name of our platform - Online Monster.
+* Consistently featured across all pages, our fully responsive navigation bar ensures seamless access to the Home page, Coaches, and Contact Us sections.
+* With a contrasting black and white color scheme, the navigation sections are intuitively organized for user convenience.
+* The fixed navigation position enhances user experience by facilitating effortless page transitions.
 
 ![Navigation Screenshot](assets/screenshots/navigation.png)
 

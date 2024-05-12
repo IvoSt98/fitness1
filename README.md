@@ -14,8 +14,12 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 * Featured on all three pages, the full responsive navigation bar which opens every ot the links Home page, Coaches and Contact Us to a new page and is identical in each page to allow for easy navigation.
 * The color it's contrast black and white and the sections of informations are easy to be find, which good first impression
 to the user.
+* Тhe position of the navigation it's fixed to be easier for the user when he/she decide to change the page.
 
 ![Navigation Screenshot](assets/images/navigation.png)
+
+
+[Тhe sections below are relative to the first page](https://ivost98.github.io/fitness1/)
 
 **Section Personal Training**
 

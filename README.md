@@ -96,7 +96,7 @@ to the user.
 ## Wireframes
 * [For Home page](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/home.png)
 * [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/coaches.png)
-* [For page Contact us]
+* [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/contactus.png)
 
 ## Tehnology Used
 * The code was written with [HTML5](https://de.wikipedia.org/wiki/HTML5)

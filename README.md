@@ -88,3 +88,7 @@ to the user.
 
 ## Color
 * The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
+
+## Tehnology Used
+[HTML5](https://de.wikipedia.org/wiki/HTML5)
+[CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)

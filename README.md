@@ -23,10 +23,11 @@ to the user.
 * With clear information that the website it's for personal training , for individuals facing disabling diseases and how it will help them to achieve their goals.
 * In the end the section is with motivation message for the users.
 
-![First Section Screenshot](assets/images/firstsection.png)
+![First Section Screenshot](assets/images/first-section.png)
 
 **Section About Us**
 
 * With black background and red and white text showing the contrast with the section above and on the bottom of this section
 * Section About us shows exactly the way how the coaches will gonna help the user - through online sessions.
 
+![Second Section Screenshot](assets/images/second-section.png)

@@ -11,7 +11,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 **Header with Navigation**
 
 * Our top left corner in the navigation, shows the name of our page - Online Monster!
-* Featured on all three pages, the full responsive navigation bar includes links to the Home page, Coaches and Contact Us page and is identical in each page to allow for easy navigation.
+* Featured on all three pages, the full responsive navigation bar which opens every ot the links Home page, Coaches and Contact Us to a new page and is identical in each page to allow for easy navigation.
 * The color it's contrast black and white and the sections of informations are easy to be find, which good first impression
 to the user.
 
@@ -19,6 +19,7 @@ to the user.
 
 **Section Personal Training**
 
+* The section introduces an image which is a coach helping to a client,reason is to grab the user attention.
 * The text it's in black and red, which is in a perfect contrast with the background.
 * With clear information that the website it's for personal training , for individuals facing disabling diseases and how it will help them to achieve their goals.
 * In the end the section is with motivation message for the users.

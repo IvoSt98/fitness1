@@ -135,3 +135,14 @@ The project was deployed to GitHub Pages using the following steps...
 6.The page will automatically refresh.
 
 7.Scroll back down through the page to locate the now published site [link](https://github.com/IvoSt98/fitness1?tab=readme-ov-file) in the "GitHub Pages" section, it will be under the name Depployments.
+
+
+## Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1.Log in to GitHub and locate the GitHub Repository
+
+2.At the top of the [Repository](https://github.com/IvoSt98/fitness1)  between Watch and Star btuons on the menu, is locate the "Fork" Button.
+
+3.You should now have a copy of the original repository in your GitHub account.

@@ -19,7 +19,7 @@ to the user.
 ![Navigation Screenshot](assets/images/navigation.png)
 
 
-[Тhe sections below are relative to the first page](https://ivost98.github.io/fitness1/)
+[Тhe sections below are relative to the Home Page](https://ivost98.github.io/fitness1/)
 
 **Section Personal Training**
 
@@ -53,3 +53,6 @@ to the user.
 * The footer is identical on every page, allowing the user to connect immediately if needed.
 
 ![Footer Screenshot](assets/images/footer.png)
+  
+
+  [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)

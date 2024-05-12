@@ -75,4 +75,14 @@ to the user.
   * The sign up form is designed to colect data as a full name and e-mail address.
   * It also give a choise with which coach the user will would like to train together.
 
-  ![Coach Katerina Snow](assets/images/sign-up.png)
+  ![Sign-Up form](assets/images/sign-up.png)
+
+  ## Future Features
+
+* First step it will be to add blog file with more information about training programs for individuals facing disabling diseases.
+* Second in the blog to have information about meal plans.
+* Next it will be added more offers. Not only meal and training plan, and coaching, also there will have an offer for taking care about your body and soul.
+* Will be add an meditation and yoga program.
+* Videos about people with different disabling diseases changes, user to see how nothing is imposible.
+* Will be created an online comunity which is connected with the website, where people exchange advises.
+

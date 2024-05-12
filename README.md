@@ -94,6 +94,11 @@ to the user.
 * The main and only font used ina Online Monster is - Black 900 used in sans-serif. 
 
 ## Tehnology Used
-[HTML5](https://de.wikipedia.org/wiki/HTML5)
-
-[CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)
+* The code was written with [HTML5](https://de.wikipedia.org/wiki/HTML5)
+* The style was made with [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)
+* The [Google Fonts](https://fonts.google.com/) was used to give style to the whole project text.
+* The [Font Awesome](https://fontawesome.com/) was used to give icons in the footer.
+* [Git](https://git-scm.com/) was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+* [Git Hub](https://github.com/) was used to store the project.
+* [Balsamiq](https://balsamiq.com/) to create wireframes about project prototype.
+* [Favicon Converter](https://favicon.io/favicon-converter/) was used to convert img to favicon.

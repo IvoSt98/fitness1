@@ -19,7 +19,7 @@ to the user.
 ![Navigation Screenshot](assets/images/navigation.png)
 
 
-[Тhe sections below are relative to the Home Page](https://ivost98.github.io/fitness1/)
+[Тhe sections below is relative to the Home Page](https://ivost98.github.io/fitness1/)
 
 **Section Personal Training**
 
@@ -55,7 +55,7 @@ to the user.
 ![Footer Screenshot](assets/images/footer.png)
   
 
-  [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
+  [Тhe sections below is relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
 
   **Coaches File**
 
@@ -66,4 +66,6 @@ to the user.
 ![Coach Emily Litovska](assets/images/coach-screen.png)
   ![Coach John Smith](assets/images/coach-screen2.png)
   ![Coach Katerina Snow](assets/images/coach-screen3.png)
+
+  [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
   

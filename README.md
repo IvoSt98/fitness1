@@ -68,4 +68,11 @@ to the user.
   ![Coach Katerina Snow](assets/images/coach-screen3.png)
 
   [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
-  
+
+  **Sign Up and Choose a Coach**
+
+  * With creative background image which gives better user experiance.
+  * The sign up form is designed to colect data as a full name and e-mail address.
+  * It also give a choise with which coach the user will would like to train together.
+
+  ![Coach Katerina Snow](assets/images/sign-up.png)

@@ -60,10 +60,8 @@ Frequent User Goals
 
 ## Section We offer and Working time
 
-* On the left side of the section is division We Offer with contrast black and red text.
-* The divison gives information about what the website offer to the users.
-* On the other right side of the section is the devision about Working time with the same color.
-* Giving a details which days and time it's open and which is closed.
+* The "We Offer" section, with its contrast of black and red text, provides comprehensive information about the website's offerings.
+* Conversely, the "Working Time" section, also employing the same color scheme, specifies operational hours, ensuring clarity regarding accessibility.
 
 ![Third Section Screenshot](assets/screenshots/offer-and-hours.png)
 

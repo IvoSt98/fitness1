@@ -95,8 +95,8 @@ main {
 
 /* Responsive img */
 #img1 {
-    height: 100%;
-    width: 100%;
+    max-height: 100%;
+    max-width: 100%;
     flex: 100%;
     max-width: 100%;
 }
@@ -125,7 +125,9 @@ main {
 
     padding-left: 20%;
     padding-right: 20%;
+    
 }
+
 
 /*Div about us */
 #div2 {
@@ -409,6 +411,7 @@ footer p {
 
     /*First section making the img responnse*/
     #img1 {
+        height: 500px;
         width: 500px;
         float: left;
     }

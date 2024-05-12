@@ -18,10 +18,32 @@ to the user.
 
 ![Navigation Screenshot](assets/screenshots/navigation.png)
 
+## User Stories
+
+### First-Time Visitor Goals
+
+**As a first-time visitor**
+1. I aim to understand the primary focus of the website and learn more about the fitness organization.
+2. I want to navigate seamlessly through the site's pages to discover its content.
+3. I seek testimonials and social media links to gauge the organization's reputation and community engagement.
+Returning Visitor Goals
+
+**As a returning visitor**
+1. I want to explore the profiles of the fitness coaches available.
+2. I intend to learn about each coach's expertise, experience, and training philosophy.
+3. I aim to find contact information for each coach to inquire about personal training sessions or classes.
+Frequent User Goals
+
+**As a frequent user**
+1. I prioritize checking for updates on the organization's contact information.
+2. I seek to find the best way to reach out to the organization for inquiries, feedback, or support.
+3. I plan to explore the contact page regularly for any updates or changes to contact methods or information.
+
+
+## Section Personal Training
 
 [Тhe sections below is relative to the Home Page](https://ivost98.github.io/fitness1/)
 
-**Section Personal Training**
 
 * The section introduces an image which is a coach helping to a client,reason is to grab the user attention.
 * The text it's in black and red, which is in a perfect contrast with the background.
@@ -30,14 +52,14 @@ to the user.
 
 ![First Section Screenshot](assets/screenshots/section-one.png)
 
-**Section About Us**
+## Section About Us
 
 * With black background and red and white text showing the contrast with the section above and on the bottom of this section
 * Section About us shows exactly the way how the coaches will gonna help the user - through online sessions.
 
 ![Second Section Screenshot](assets/screenshots/second-section.png)
 
-**Section We offer and Working time**
+## Section We offer and Working time
 
 * On the left side of the section is division We Offer with contrast black and red text.
 * The divison gives information about what the website offer to the users.
@@ -46,7 +68,7 @@ to the user.
 
 ![Third Section Screenshot](assets/screenshots/offer-and-hours.png)
 
-**The Footer**
+## The Footer
 
 * The footer section includes links to the social media Online Monster pages, which will be open in a new link.
 * The conctact form is provides an e-mail and phone contact if there has any questions.
@@ -57,7 +79,7 @@ to the user.
 
   [Тhe sections below is relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
 
-  **Coaches File**
+  ## Coaches File
 
   * The coaches folder represent img of every one of the trainers.
   * And also give information what is the name of the coach, short autobiography and working days and hours.
@@ -69,7 +91,7 @@ to the user.
 
   [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
 
-  **Sign Up and Choose a Coach**
+  ## Sign Up and Choose a Coach
 
   * With creative background image which gives better user experiance.
   * The sign up form is designed to colect data as a full name and e-mail address.

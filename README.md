@@ -78,9 +78,8 @@ Frequent User Goals
 
   ## Coaches File
 
-  * The coaches folder represent img of every one of the trainers.
-  * And also give information what is the name of the coach, short autobiography and working days and hours.
-  * With contrast red and black text on the white background for beter visual effect.
+* The coaches folder showcases images of each trainer, accompanied by their name, a brief autobiography, and working hours.
+* Utilizing a contrast of red and black text against a white background enhances visual impact.
 
 ![Coach Emily Litovska](assets/screenshots/coach-screen.png)
   ![Coach John Smith](assets/screenshots/coach-screen2.png)

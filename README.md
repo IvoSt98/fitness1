@@ -172,6 +172,7 @@ Click [Here](https://docs.github.com/en/repositories/creating-and-managing-repos
 * The code to make social media links was taken from [Love Runnign project](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html)
 * The code for the asterix selector was taken form [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.2-add-stylesheet-with-starter-styles/assets/css/style.css)
 * To code to center the sign up form was used from [MDN Web Docs :](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
+* The idea for the README.md file is from [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME?tab=readme-ov-file#typography)
 
 ### Media
 * The images used in the website was taken from [Pexels](https://www.pexels.com/collections/at-the-gym-bx2voen/)

@@ -43,3 +43,5 @@ to the user.
 * The divison gives information about what the website offer to the users.
 * On the other right side of the section is the devision about Working time with the same color.
 * Giving a details which days and time it's open and which is closed.
+
+![First Section Screenshot](assets/images/offer-and-hours.png)

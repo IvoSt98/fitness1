@@ -152,16 +152,26 @@ git clone https://github.com/IvoSt98/fitness1"
 
 7. Press Enter. Your local clone will be created.
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+"$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 
-> Cloning into `Spoon-Knife`...
+"> Cloning into `Spoon-Knife`..."
 
-> remote: Counting objects: 10, done.
+"> remote: Counting objects: 10, done."
 
-> remote: Compressing objects: 100% (8/8), done.
+"> remote: Compressing objects: 100% (8/8), done."
 
-> remove: Total 10 (delta 1), reused 10 (delta 1)
+"> remove: Total 10 (delta 1), reused 10 (delta 1)"
 
-> Unpacking objects: 100% (10/10), done.
+"> Unpacking objects: 100% (10/10), done."
 
 Click [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+## Credits
+
+### Content
+* The code to make social media links was taken from [Love Runnign project](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html)
+* The code for the asterix selector was taken form [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.2-add-stylesheet-with-starter-styles/assets/css/style.css)
+* To code to center the sign up form was used from [MDN Web Docs :](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
+
+### Media
+* The images used in the website was taken from [Pexels](https://www.pexels.com/collections/at-the-gym-bx2voen/)

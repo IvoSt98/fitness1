@@ -24,3 +24,9 @@ to the user.
 * In the end the section is with motivation message for the users.
 
 ![First Section Screenshot](assets/images/firstsection.png)
+
+**Section About Us**
+
+* With black background and red and white text showing the contrast with the section above and on the bottom of this section
+* Section About us shows exactly the way how the coaches will gonna help the user - through online sessions.
+

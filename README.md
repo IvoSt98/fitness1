@@ -93,6 +93,8 @@ to the user.
 ## Typography
 * The main and only font used ina Online Monster is - Black 900 used in sans-serif. 
 
+
+
 ## Tehnology Used
 * The code was written with [HTML5](https://de.wikipedia.org/wiki/HTML5)
 * The style was made with [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)

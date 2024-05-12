@@ -118,14 +118,13 @@ Frequent User Goals
 * [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/contactus.png)
 
 ## Tehnology Used
-* The code was written with [HTML5](https://de.wikipedia.org/wiki/HTML5)
-* The style was made with [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)
-* The [Google Fonts](https://fonts.google.com/) was used to give style to the whole project text.
-* The [Font Awesome](https://fontawesome.com/) was used to give icons in the footer.
-* [Git](https://git-scm.com/) was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-* [Git Hub](https://github.com/) was used to store the project.
-* [Balsamiq](https://balsamiq.com/) to create wireframes about project prototype.
-* [Favicon Converter](https://favicon.io/favicon-converter/) was used to convert img to favicon.
+* [HTML5](https://de.wikipedia.org/wiki/HTML5) and [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) were employed for code development. 
+
+* [Google Fonts](https://fonts.google.com/) provided styling for the text elements.
+* [Font Awesome](https://fontawesome.com/) contributed icons to the footer section.
+* [Git](https://git-scm.com/) facilitated version control, with [Git Hub](https://github.com/) serving as the repository.
+* [Balsamiq](https://balsamiq.com/)  aided in creating wireframes for project visualization.
+* [Favicon Converter](https://favicon.io/favicon-converter/) was utilized for converting images to favicons.
 
 ## Code Validation
 

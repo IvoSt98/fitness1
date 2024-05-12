@@ -145,9 +145,9 @@ Frequent User Goals
 ![Contact Us Screenshot lighthouse](assets/screenshots/lighthouse3.png)
 
 ### Further Testing
-1. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-2. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-3. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+1. Extensive browser testing was conducted across Google Chrome, Internet Explorer, Microsoft Edge, and Safari.
+2. The website was evaluated across various devices, including desktops and iPhones, to ensure responsive design.
+3. Feedback from friends and family members was sought to identify any bugs or user experience issues.
  
  ## Deployment
  

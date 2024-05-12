@@ -148,14 +148,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type ```git clone```, and then paste the URL you copied in Step 3.
 
-$ git clone https://github.com/IvoSt98/fitness1
+git clone https://github.com/IvoSt98/fitness1"
 
 7. Press Enter. Your local clone will be created.
 
-
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-> Cloning into `CI-Clone`...
+> Cloning into `Spoon-Knife`...
 
 > remote: Counting objects: 10, done.
 

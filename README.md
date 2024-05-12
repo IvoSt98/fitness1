@@ -107,3 +107,13 @@ to the user.
 * [Git Hub](https://github.com/) was used to store the project.
 * [Balsamiq](https://balsamiq.com/) to create wireframes about project prototype.
 * [Favicon Converter](https://favicon.io/favicon-converter/) was used to convert img to favicon.
+
+## Code Validation
+
+* The code was tested with [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) with a [bug](https://github.com/IvoSt98/fitness1/commit/713f4563b8baa15b1812f484e9e4bd5f1da062e5) i just copied and pasted the content,and didn't change the ids with class atributes. The bug was fixed and everything working normlal.
+* Second bug was that the nav elements was without closing tag this creates bug with which when you clike somewhere on the page it send you to the Contact Us file.[The bug code](https://github.com/IvoSt98/fitness1/commit/aee94a5955128881246b1651fe07260af20d2b09#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+            
+* [Click here to see the Result without bugs](https://validator.w3.org/nu/?doc=https%3A%2F%2Fivost98.github.io%2Ffitness1%2F)
+
+* The code was tested with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) without any bugs [Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fivost98.github.io%2Ffitness1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+ 

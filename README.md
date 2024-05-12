@@ -93,7 +93,10 @@ to the user.
 ## Typography
 * The main and only font used ina Online Monster is - Black 900 used in sans-serif. 
 
-
+## Wireframes
+* [For Home page](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/home.png)
+* [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/coaches.png)
+* [For page Contact us]
 
 ## Tehnology Used
 * The code was written with [HTML5](https://de.wikipedia.org/wiki/HTML5)

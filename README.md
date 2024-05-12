@@ -86,3 +86,5 @@ to the user.
 * Videos about people with different disabling diseases changes, user to see how nothing is imposible.
 * Will be created an online comunity which is connected with the website, where people exchange advises.
 
+## Color
+* The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)

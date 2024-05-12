@@ -106,7 +106,7 @@ Frequent User Goals
 
 
 ## Color
-* The main colors which were used for the project Online Monsters are: black, white and red.
+* The project's primary color palette comprises black, white, and red, meticulously selected to evoke a sense of professionalism and dynamism.
 * The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
 
 ## Typography

@@ -32,3 +32,10 @@ to the user.
 * Section About us shows exactly the way how the coaches will gonna help the user - through online sessions.
 
 ![Second Section Screenshot](assets/images/second-section.png)
+
+**Section We offer and Working time**
+
+* On the left side of the section is division We Offer with contrast black and red text.
+* The divison gives information about what the website offer to the users.
+* On the other right side of the section is the devision about Working time with the same color.
+* Giving a details which days and time it's open and which is closed.

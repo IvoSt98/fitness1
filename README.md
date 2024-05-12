@@ -110,7 +110,7 @@ Frequent User Goals
 * The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
 
 ## Typography
-* The main and only font used ina Online Monster is - Black 900 used in sans-serif. 
+* The sole font utilized is Black 900 in a sans-serif style, ensuring consistency and readability throughout the project.
 
 ## Wireframes
 * [For Home page](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/home.png)

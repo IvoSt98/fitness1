@@ -5,7 +5,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
  
   Users of the website it will be able to find information as: day working hours, information about the team, what offer the website, biography about the coaches, conctact and sign up form.
   
-  ![Responsive Screenshot](assets/images/screenshot.png)
+  ![Responsive Screenshot](assets/screenshots/screenshot.png)
 
   ## Features
 **Header with Navigation**
@@ -16,7 +16,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 to the user.
 * Тhe position of the navigation it's fixed to be easier for the user when he/she decide to change the page.
 
-![Navigation Screenshot](assets/images/navigation.png)
+![Navigation Screenshot](assets/screenshots/navigation.png)
 
 
 [Тhe sections below is relative to the Home Page](https://ivost98.github.io/fitness1/)
@@ -28,14 +28,14 @@ to the user.
 * With clear information that the website it's for personal training , for individuals facing disabling diseases and how it will help them to achieve their goals.
 * In the end the section is with motivation message for the users.
 
-![First Section Screenshot](assets/images/first-section.png)
+![First Section Screenshot](assets/screenshots/first-section.png)
 
 **Section About Us**
 
 * With black background and red and white text showing the contrast with the section above and on the bottom of this section
 * Section About us shows exactly the way how the coaches will gonna help the user - through online sessions.
 
-![Second Section Screenshot](assets/images/second-section.png)
+![Second Section Screenshot](assets/screenshots/second-section.png)
 
 **Section We offer and Working time**
 
@@ -44,7 +44,7 @@ to the user.
 * On the other right side of the section is the devision about Working time with the same color.
 * Giving a details which days and time it's open and which is closed.
 
-![Third Section Screenshot](assets/images/offer-and-hours.png)
+![Third Section Screenshot](assets/screenshots/offer-and-hours.png)
 
 **The Footer**
 
@@ -52,7 +52,7 @@ to the user.
 * The conctact form is provides an e-mail and phone contact if there has any questions.
 * The footer is identical on every page, allowing the user to connect immediately if needed.
 
-![Footer Screenshot](assets/images/footer.png)
+![Footer Screenshot](assets/screenshots/footer.png)
   
 
   [Тhe sections below is relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
@@ -63,9 +63,9 @@ to the user.
   * And also give information what is the name of the coach, short autobiography and working days and hours.
   * With contrast red and black text on the white background for beter visual effect.
 
-![Coach Emily Litovska](assets/images/coach-screen.png)
-  ![Coach John Smith](assets/images/coach-screen2.png)
-  ![Coach Katerina Snow](assets/images/coach-screen3.png)
+![Coach Emily Litovska](assets/screenshots/coach-screen.png)
+  ![Coach John Smith](assets/screenshots/coach-screen2.png)
+  ![Coach Katerina Snow](assets/screenshots/coach-screen3.png)
 
   [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
 
@@ -75,7 +75,7 @@ to the user.
   * The sign up form is designed to colect data as a full name and e-mail address.
   * It also give a choise with which coach the user will would like to train together.
 
-  ![Sign-Up form](assets/images/sign-up.png)
+  ![Sign-Up form](assets/screenshots/sign-up.png)
 
   ## Future Features
 

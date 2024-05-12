@@ -52,7 +52,7 @@ ul>li {
     margin-left: 10px;
 }
 
-/*Make the bullet points to di disappear */
+/*Make the bullet points to disappear */
 .flex-item {
     list-style-type: none;
 }

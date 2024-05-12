@@ -87,8 +87,13 @@ to the user.
 * Will be created an online comunity which is connected with the website, where people exchange advises.
 
 ## Color
+* The main colors which were used for the project Online Monsters are: black, white and red.
 * The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
+
+## Typography
+* The main and only font used ina Online Monster is - Black 900 used in sans-serif. 
 
 ## Tehnology Used
 [HTML5](https://de.wikipedia.org/wiki/HTML5)
+
 [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)

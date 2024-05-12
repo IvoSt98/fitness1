@@ -44,10 +44,10 @@ Frequent User Goals
 [Тhe sections below is relative to the Home Page](https://ivost98.github.io/fitness1/)
 
 
-* The section introduces an image which is a coach helping to a client,reason is to grab the user attention.
-* The text it's in black and red, which is in a perfect contrast with the background.
-* With clear information that the website it's for personal training , for individuals facing disabling diseases and how it will help them to achieve their goals.
-* In the end the section is with motivation message for the users.
+* The section provides a captivating image of a coach assisting a client, designed to grab the user's attention.
+* Text is presented in black and red, ensuring optimal contrast with the background.
+* Clear information emphasizes the website's focus on personal training for individuals facing disabling diseases, * highlighting how it facilitates goal achievement.
+* The section concludes with a motivational message to inspire users.
 
 ![First Section Screenshot](assets/screenshots/section-one.png)
 

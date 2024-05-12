@@ -144,7 +144,7 @@ Frequent User Goals
 ![Home page Screenshot lighthouse](assets/screenshots/lighthouse1.png)
 ![Home page Screenshot lighthouse](assets/screenshots/lighthouse2.png)
 ### About Coaches page
-
+![Coaches Screenshot lighthouse](assets/screenshots/lighthouse4.png)
 ### About Contact Us page
 ![Contact Us Screenshot lighthouse](assets/screenshots/lighthouse3.png)
 

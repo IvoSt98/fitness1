@@ -367,11 +367,7 @@ footer p {
     }
 
     /*Third section in index.html and every div3 and div4 in coaches.html to be flexed */
-    .div3 {
-        flex: 1 150px;
-    }
-
-    .div4 {
+    .divs {
         flex: 1 150px;
     }
 
@@ -441,14 +437,9 @@ footer p {
     }
 
     /*Third section in index.html and every div3 and div4 in coaches.html to be flexed */
-    .div3 {
+    .divs {
         flex: 1 40%;
     }
-
-    .div4 {
-        flex: 1 40%;
-    }
-
 
     /*Img coach center the h2*/
     .centre {

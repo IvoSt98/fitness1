@@ -113,8 +113,8 @@ main {
 /*Center the text and giving some padding from left and right*/
 .description {
     text-align: center;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 /*Space from the bootom, left and right. Giving it color and center the text*/
@@ -156,8 +156,8 @@ main {
 #div-about-us p {
     color: #ffffff;
     font-size: large;
-    padding-right: 20%;
-    padding-left: 20%;
+    padding-right: 2%;
+    padding-left: 2%;
     text-align: center;
 }
 
@@ -203,7 +203,7 @@ td {
     max-height: 768px;
     border-radius: 50%;
     display: block;
-    margin-top: 200px;
+    margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
 }

@@ -94,7 +94,7 @@ main {
 }
 
 /* Responsive img */
-#img1 {
+#giveahand {
     max-height: 100%;
     max-width: 100%;
     flex: 100%;
@@ -125,12 +125,12 @@ main {
 
     padding-left: 20%;
     padding-right: 20%;
-    
+
 }
 
 
 /*Div about us */
-#div2 {
+#div-about-us {
     background-color: #000000;
     padding-bottom: 30px;
     margin-top: 10px;
@@ -153,7 +153,7 @@ main {
 }
 
 /* Color for the text in the second section */
-#div2 p {
+#div-about-us p {
     color: #ffffff;
     font-size: large;
     padding-right: 20%;
@@ -223,64 +223,66 @@ td {
     background-repeat: no-repeat;
     height: 700px;
     background-color: #000000;
-    padding: 50px 10%  10%;
+    padding: 50px 10% 10%;
 }
 
 /*Giving color and style to the form*/
-#form{
+#form {
     color: #ffffff;
     padding: 30px;
     text-transform: uppercase;
-    
+
 }
-input{
+
+input {
     color: #ffffff;
 }
 
 /*Style the labels*/
-.label{
-   font-size: 20px;
-   text-transform: capitalize;
+.label {
+    font-size: 20px;
+    text-transform: capitalize;
 }
 
 /*Fieldset*/
-fieldset{
+fieldset {
     height: 550px;
     width: 350px;
     max-width: 100%;
     height: max-content;
-    
+
 }
-fieldset>h2{
+
+fieldset>h2 {
     color: #FF0000;
     margin-bottom: 20px;
     text-align: center;
 }
 
 /*Input*/
-.input{
+.input {
     width: 100%;
-   padding: 3px;
-   margin-top: 5px;
-   margin-bottom: 15px;
-   font-size: 100%;
-   background: transparent;
-   border:#ffffff solid 2px;
+    padding: 3px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 100%;
+    background: transparent;
+    border: #ffffff solid 2px;
 }
 
 /*Flexbox for the main only in contactus.html*/
-#main{
+#main {
     display: flex;
     flex-direction: column;
 }
 
 /*Button Submit*/
-button{
+button {
     margin-top: 10px;
     padding: 5px 50px;
     font-size: 25px;
     background-color: #FF0000;
-    color:#ffffff;
+    color: #ffffff;
     border-radius: 20px;
 }
 
@@ -320,6 +322,7 @@ footer p {
     padding: 5%;
     color: #ffffff;
 }
+
 /*Styling the site for tablet 768 px*/
 @media screen and (min-width: 768px) {
 
@@ -393,11 +396,11 @@ footer p {
         justify-content: center
     }
 
-  /*Center the form from contactus.html*/
-    #form{
+    /*Center the form from contactus.html*/
+    #form {
         display: flex;
-  align-items: center;
-  justify-content: center; 
+        align-items: center;
+        justify-content: center;
     }
 
 }
@@ -406,14 +409,14 @@ footer p {
 @media screen and (min-width: 992px) {
 
     /*First section making the img responnse*/
-    #img1 {
+    #giveahand {
         height: 500px;
         width: 500px;
         float: left;
     }
 
     /*Making all of the text large in div1*/
-    #div1 {
+    #div-giveahand {
         font-size: large;
 
     }

@@ -22,6 +22,7 @@ footer {
 
 /*Genarel style for the header*/
 header {
+    box-shadow: 1px 1px 20px;
     background-color: #ffffff;
     color: #000000;
     font-family: "Black 900", sans-serif;
@@ -34,23 +35,18 @@ header {
 }
 
 /*Header*/
-
 a {
     color: #000000;
     text-decoration: none;
 
 }
 
-ul {
-    margin-top: 20px;
-
-}
-
 ul>li {
+    font-size: 130%;
     display: inline-block;
-    text-transform: uppercase;
     padding: 5px;
     margin-left: 10px;
+   
 }
 
 /*Make the bullet points to disappear */
@@ -70,7 +66,7 @@ h1 {
     margin-top: 10px;
     font-family: "Black 900", sans-serif;
     letter-spacing: 1px;
-
+    padding: 10px;
 }
 
 /*Moving down the nav*/
@@ -91,7 +87,7 @@ h1 {
 main {
     font-family: "Black 900", sans-serif;
     /* Streching the main */
-    margin-top: 110px;
+    margin-top: 100px;
 }
 
 /* Responsive img */
@@ -123,7 +119,6 @@ main {
     margin-bottom: 20px;
     text-align: center;
     color: #FF0000;
-
     padding-left: 20%;
     padding-right: 20%;
 
@@ -143,7 +138,6 @@ main {
 #about-us {
     text-align: center;
     color: #FF0000;
-
     padding-top: 30px;
 
 }
@@ -292,8 +286,6 @@ button {
     margin-top: 0px;
 }
 
-
-
 /*Footer*/
 
 /*Giving backgrond color and font*/
@@ -327,29 +319,18 @@ footer p {
 /*Styling the site for tablet 768 px*/
 @media screen and (min-width: 768px) {
 
-    /*Moving the h1 one to the left*/
-    h1 {
-        padding: 10px;
-    }
-
     /*Responsitive nav element*/
     ul {
         list-style-type: none;
         padding: 0;
         margin: 0;
         text-align: right;
+        margin-right: 2%;
     }
 
     ul>li {
-        text-transform: uppercase;
         margin-top: auto;
         margin-right: 15px;
-    }
-
-
-    /*Moving down the main */
-    main {
-        margin-top: 100px;
     }
 
     /*Section Offer in index.html and in coaches.html, flexing the content to be on one line and responsive*/

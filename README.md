@@ -113,9 +113,9 @@ Frequent User Goals
 * The chosen font, Black 900 in a sans-serif style, has been carefully selected to maintain consistency and improve readability across the entire project.
 
 ## Wireframes
-* [For Home page](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/home.png)
-* [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/coaches.png)
-* [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/assets/wireframes/contactus.png)
+* [For Home page](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/home.png)
+* [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/coaches.png)
+* [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/contactus.png)
 
 ## Tehnology Used
 * [HTML5](https://de.wikipedia.org/wiki/HTML5) and [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) were employed for code development. 

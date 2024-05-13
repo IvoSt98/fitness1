@@ -5,7 +5,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
  
   Users of the website it will be able to find information as: day working hours, information about the team, what offer the website, biography about the coaches, conctact and sign up form.
   
-  ![Responsive Screenshot](assets/screenshots/screenshot.png)
+  ![Responsive Screenshot](readme-imges/screenshots/responsive.png)
 
   ## Features
 **Header with Navigation**
@@ -15,7 +15,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 * With a contrasting black and white color scheme, the navigation sections are intuitively organized for user convenience.
 * The fixed navigation position enhances user experience by facilitating effortless page transitions.
 
-![Navigation Screenshot](assets/screenshots/navigation.png)
+![Navigation Screenshot](readme-imges/screenshots/navigation.png)
 
 ## User Stories
 
@@ -49,21 +49,21 @@ Frequent User Goals
 * Clear information emphasizes the website's focus on personal training for individuals facing disabling diseases, * highlighting how it facilitates goal achievement.
 * The section concludes with a motivational message to inspire users.
 
-![First Section Screenshot](assets/screenshots/section-one.png)
+![First Section Screenshot](readme-imges/screenshots/section-one.png)
 
 ## Section About Us
 
 * Against a black background, red and white text effectively contrasts with the preceding section and the section below.
 * The "About Us" section elucidates how coaches will assist users through online sessions, emphasizing the organization's commitment to personalized support.
 
-![Second Section Screenshot](assets/screenshots/second-section.png)
+![Second Section Screenshot](readme-imges/screenshots/second-section.png)
 
 ## Section We offer and Working time
 
 * The "We Offer" section, with its contrast of black and red text, provides comprehensive information about the website's offerings.
 * Conversely, the "Working Time" section, also employing the same color scheme, specifies operational hours, ensuring clarity regarding accessibility.
 
-![Third Section Screenshot](assets/screenshots/offer-and-hours.png)
+![Third Section Screenshot](readme-imges/screenshots/offer-and-hours.png)
 
 ## The Footer
 
@@ -71,7 +71,7 @@ Frequent User Goals
 * Additionally, the contact form provides email and phone contact options for inquiries.
 * Consistently present across all pages, the footer facilitates immediate user engagement.
 
-![Footer Screenshot](assets/screenshots/footer.png)
+![Footer Screenshot](readme-imges/screenshots/footer.png)
   
 
   [Тhe sections below is relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
@@ -81,9 +81,9 @@ Frequent User Goals
 * The coaches folder showcases images of each trainer, accompanied by their name, a brief autobiography, and working hours.
 * Utilizing a contrast of red and black text against a white background enhances visual impact.
 
-![Coach Emily Litovska](assets/screenshots/coach-screen.png)
-  ![Coach John Smith](assets/screenshots/coach-screen2.png)
-  ![Coach Katerina Snow](assets/screenshots/coach-screen3.png)
+![Coach Emily Litovska](readme-imges/screenshots/emily.png)
+  ![Coach John Smith](readme-imges/screenshots/john.png)
+  ![Coach Katerina Snow](readme-imges/screenshots/katerina.png)
 
   [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
 
@@ -94,7 +94,7 @@ Frequent User Goals
 * The form is designed for seamless integration with the user's journey.
 
 
-  ![Sign-Up form](assets/screenshots/sign-up.png)
+  ![Sign-Up form](readme-imges/screenshots/sign-up.png)
 
   ## Future Features
 
@@ -137,12 +137,12 @@ Frequent User Goals
 
 * Lighthouse in DevTools confirmed the site's readability and accessibility.
 ### About Home page
-![Home page Screenshot lighthouse](assets/screenshots/lighthouse1.png)
-![Home page Screenshot lighthouse](assets/screenshots/lighthouse2.png)
+![Home page Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-home.png)
+![Home page Screenshot lighthouse](readme-imges/screenshots/lighthouse-numbers.png)
 ### About Coaches page
-![Coaches Screenshot lighthouse](assets/screenshots/lighthouse4.png)
+![Coaches Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-coaches.png)
 ### About Contact Us page
-![Contact Us Screenshot lighthouse](assets/screenshots/lighthouse3.png)
+![Contact Us Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-signup.png)
 
 ### Further Testing
 1. Extensive browser testing was conducted across Google Chrome, Internet Explorer, Microsoft Edge, and Safari.

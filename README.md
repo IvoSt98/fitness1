@@ -19,26 +19,9 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 
 ## User Stories
 
-### First-Time Visitor Goals
-
-**As a first-time visitor**
-1. I aim to understand the primary focus of the website and learn more about the fitness organization.
-2. I want to navigate seamlessly through the site's pages to discover its content.
-3. I seek testimonials and social media links to gauge the organization's reputation and community engagement.
-Returning Visitor Goals
-
-**As a returning visitor**
-1. I want to explore the profiles of the fitness coaches available.
-2. I intend to learn about each coach's expertise, experience, and training philosophy.
-3. I aim to find contact information for each coach to inquire about personal training sessions or classes.
-Frequent User Goals
-
-**As a frequent user**
-1. I prioritize checking for updates on the organization's contact information.
-2. I seek to find the best way to reach out to the organization for inquiries, feedback, or support.
-3. I plan to explore the contact page regularly for any updates or changes to contact methods or information.
-
-
+* As a fitness enthusiast with disabling diseases seeking personalized training solutions for individuals facing challenges in traditional gym settings and with trainers, my objective is to explore Online Monster's website. I aim to understand its approach and offerings thoroughly.
+* My primary goal is to gain insights into Online Monster's specialized training offers for individuals confronting disabling diseases. Additionally, I seek clarity on how Online Monster conducts its training sessions, because of my diseases i would like to be everything online. I am interested in understanding their working hours, building trust in their expertise, and learning more about their team. 
+* Ultimately, I aim to make an informed decision about which coach to work with for my future fitness journey, addressing my unique challenges in training.
 ## Section Personal Training
 
 [Тhe sections below is relative to the Home Page](https://ivost98.github.io/fitness1/)

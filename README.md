@@ -46,7 +46,7 @@ Frequent User Goals
 
 * The section provides a captivating image of a coach assisting a client, designed to grab the user's attention.
 * Text is presented in black and red, ensuring optimal contrast with the background.
-* Clear information emphasizes the website's focus on personal training for individuals facing disabling diseases, * highlighting how it facilitates goal achievement.
+* Clear information emphasizes the website's focus on personal training for individuals facing disabling diseases, highlighting how it facilitates goal achievement.
 * The section concludes with a motivational message to inspire users.
 
 ![First Section Screenshot](readme-imges/screenshots/section-one.png)
@@ -152,10 +152,45 @@ Frequent User Goals
 ### About Contact Us page
 ![Contact Us Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-signup.png)
 
-### Further Testing
+## Further Testing
 1. Extensive browser testing was conducted across Google Chrome, Internet Explorer, Microsoft Edge, and Safari.
 2. The website was evaluated across various devices, including desktops and iPhones, to ensure responsive design.
 3. Feedback from friends and family members was sought to identify any bugs or user experience issues.
+
+### Testing the site pages
+
+#### Home Page
+1. Upon opening the website, the user is greeted with a navigation header displaying the site name on the left and three icons on the right:
+   - A home icon (underlined) for the home page.
+   - A dumbbell icon for the coaches page.
+   - An arrow icon for signing in.
+2. Below the navigation, the user encounters the first section featuring a motivational image accompanied by text emphasizing the website's focus on personal training for individuals with disabling diseases, highlighting its role in facilitating goal achievement.
+3. Following the first section is an "About Us" section explaining how coaches assist users through online sessions, underscoring the organization's commitment to personalized support.
+4. The last section provides information about working hours and offers available on the site.
+5. At the bottom of the page, there's a footer containing contact email and phone information, as well as social media icons linking to different social media pages.
+
+![Home Page Screenshot Proof](readme-imges/screenshots/home-proof.png)
+
+#### Coaches Page
+1. Clicking on the dumbbell icon in the navigation header redirects the user to the coaches page.
+2. The navigation bar remains consistent with the home page, but the underline now appears below the dumbbell icon.
+3. Users encounter images of each coach along with a brief autobiography and their weekly working hours.
+4. The footer at the bottom of the page mirrors that of the home page, containing contact information and social media links.
+
+![Coaches Page Screenshot Proof](readme-imges/screenshots/coach-proof.png)
+
+#### Contact Us Page
+1. Clicking on the arrow icon in the navigation header directs the user to the sign-up page.
+2. The navigation bar retains its appearance from the home page, with the underline now below the arrow icon.
+3. Users are presented with a sign-up form and a background image.
+4. Upon clicking the SUBMIT button, users are prompted first to fill in their first name.
+5. After fill in their first name and they try to press the SUBMIT button, users will be prompted to fill in their last name before they can continue.
+6. After fill in their last name and they try to press the SUBMIT button, users will be prompted to fill in their email before they can continue.
+7. After fill in their email and they try to press the SUBMIT button, users will be prompted to fill in one of the three coaches before they can continue.
+8. Upon selecting a coach and pressing the SUBMIT button, the sign-up form is accepted.
+9. The footer at the bottom of the page remains consistent with contact information and social media links.
+
+![Contact Us Page Screenshot Proof](readme-imges/screenshots/contact-proof.png)
  
  ## Deployment
  
@@ -216,3 +251,4 @@ Click [Here](https://docs.github.com/en/repositories/creating-and-managing-repos
 
 ### Media
 * The images used in the website was taken from [Pexels](https://www.pexels.com/collections/at-the-gym-bx2voen/)
+* The screenshot images for Further Testing were made with[Movavi] (https://www.movavi.com/mac/)

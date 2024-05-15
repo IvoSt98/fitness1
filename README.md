@@ -251,4 +251,4 @@ Click [Here](https://docs.github.com/en/repositories/creating-and-managing-repos
 
 ### Media
 * The images used in the website was taken from [Pexels](https://www.pexels.com/collections/at-the-gym-bx2voen/)
-* The screenshot images for Further Testing were made with[Movavi] (https://www.movavi.com/mac/)
+* The screenshot images for Further Testing were made with [Movavi](https://www.movavi.com/mac/)

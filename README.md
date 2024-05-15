@@ -19,7 +19,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 
 ## User Stories
 
-* -As a fitness enthusiast with disabling diseases seeking personalized training solutions for individuals facing challenges in traditional gym settings and with trainers, my objective is to explore Online Monster's website. I aim to understand its approach and offerings thoroughly.
+* As a fitness enthusiast with disabling diseases seeking personalized training solutions for individuals facing challenges in traditional gym settings and with trainers, my objective is to explore Online Monster's website. I aim to understand its approach and offerings thoroughly.
 * My primary goal is to gain insights into Online Monster's specialized training offers for individuals confronting disabling diseases. Additionally, I seek clarity on how Online Monster conducts its training sessions, because of my diseases i would like to be everything online. I am interested in understanding their working hours, building trust in their expertise, and learning more about their team. 
 * Ultimately, I aim to make an informed decision about which coach to work with for my future fitness journey, addressing my unique challenges in training.
 ## Section Personal Training

@@ -4,7 +4,7 @@ Welcome to the [Online Monster Website](https://ivost98.github.io/fitness1/)
  This platform is designed to provide you with resources and guidance on your fitness journey. Specialize in supporting individuals facing disabling diseases online, on their journey to better health and well-being.
 Users of the website will be able to find information such as day working hours, information about the team, what is offered on the website, a biography about the coaches, contact and sign-up form.
   
-  ![Responsive Screenshot](readme-imges/screenshots/responsive.png)
+  ![Responsive Screenshot](readme-images/screenshots/responsive.png)
 
   ## Features
 **Header with Navigation**
@@ -14,7 +14,7 @@ Users of the website will be able to find information such as day working hours,
 * With a contrasting black and white color scheme, the navigation sections are intuitively organized for user convenience.
 * The fixed navigation position enhances user experience by facilitating effortless page transitions.
 
-![Navigation Screenshot](readme-imges/screenshots/navigation.png)
+![Navigation Screenshot](readme-images/screenshots/navigation.png)
 
 ## User Stories
 
@@ -30,21 +30,21 @@ Users of the website will be able to find information such as day working hours,
 * Clear information emphasizes the website's focus on personal training for individuals facing disabling diseases, highlighting how it facilitates goal achievement.
 * The section concludes with a motivational message to inspire users.
 
-![First Section Screenshot](readme-imges/screenshots/section-one.png)
+![First Section Screenshot](readme-images/screenshots/section-one.png)
 
 ## Section About Us
 
 * Against a black background, red and white text effectively contrast with the preceding section and the section below.
 * The "About Us" section elucidates how coaches will assist users through online sessions, emphasizing the organization's commitment to personalized support.
 
-![Second Section Screenshot](readme-imges/screenshots/second-section.png)
+![Second Section Screenshot](readme-images/screenshots/second-section.png)
 
 ## Section We offer & Working time
 
 * The "We Offer" section, with its contrast of black and red text, provides comprehensive information about the website's offerings.
 * Conversely, the "Working Time" section, also employing the same color scheme, specifies operational hours, ensuring clarity regarding accessibility.
 
-![Third Section Screenshot](readme-imges/screenshots/offer-and-hours.png)
+![Third Section Screenshot](readme-images/screenshots/offer-and-hours.png)
 
 ## The Footer
 
@@ -52,7 +52,7 @@ Users of the website will be able to find information such as day working hours,
 * Additionally, the contact form provides email and phone contact options for inquiries.
 * Consistently present across all pages, the footer facilitates immediate user engagement.
 
-![Footer Screenshot](readme-imges/screenshots/footer.png)
+![Footer Screenshot](readme-images/screenshots/footer.png)
   
 
   ### [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
@@ -62,9 +62,9 @@ Users of the website will be able to find information such as day working hours,
 * The coaches folder showcases images of each trainer, accompanied by their name, a brief autobiography, and working hours.
 * Utilizing a contrast of red and black text against a white background enhances visual impact.
 
-![Coach Emily Litovska](readme-imges/screenshots/emily.png)
-  ![Coach John Smith](readme-imges/screenshots/john.png)
-  ![Coach Katerina Snow](readme-imges/screenshots/katerina.png)
+![Coach Emily Litovska](readme-images/screenshots/emily.png)
+  ![Coach John Smith](readme-images/screenshots/john.png)
+  ![Coach Katerina Snow](readme-images/screenshots/katerina.png)
 
   [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
 
@@ -75,7 +75,7 @@ Users of the website will be able to find information such as day working hours,
 * The form is designed for seamless integration with the user's journey.
 
 
-  ![Sign-Up form](readme-imges/screenshots/sign-up.png)
+  ![Sign-Up form](readme-images/screenshots/sign-up.png)
 
   ## Future Features
 
@@ -94,9 +94,9 @@ Users of the website will be able to find information such as day working hours,
 * The chosen font, Black 900 in a sans-serif style, has been carefully selected to maintain consistency and improve readability across the entire project.
 
 ## Wireframes
-* [For Home page](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/home.png)
-* [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/coaches.png)
-* [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/contactus.png)
+* [For Home page](https://github.com/IvoSt98/fitness1/blob/main/readme-images/wireframes/home.png)
+* [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/readme-images/wireframes/coaches.png)
+* [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/readme-images/wireframes/contactus.png)
 
 ## Technology Used
 * [HTML5](https://de.wikipedia.org/wiki/HTML5) and [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) were employed for code development. 
@@ -126,12 +126,12 @@ Users of the website will be able to find information such as day working hours,
 [The bug code](https://github.com/IvoSt98/fitness1/commit/aee94a5955128881246b1651fe07260af20d2b09#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
 
 ### About Home page
-![Home page Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-home.png)
-![Home page Screenshot lighthouse](readme-imges/screenshots/lighthouse-numbers.png)
+![Home page Screenshot lighthouse](readme-images/screenshots/lighthouse-for-home.png)
+![Home page Screenshot lighthouse](readme-images/screenshots/lighthouse-numbers.png)
 ### About Coaches page
-![Coaches Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-coaches.png)
+![Coaches Screenshot lighthouse](readme-images/screenshots/lighthouse-for-coaches.png)
 ### About Contact Us page
-![Contact Us Screenshot lighthouse](readme-imges/screenshots/lighthouse-for-signup.png)
+![Contact Us Screenshot lighthouse](readme-images/screenshots/lighthouse-for-signup.png)
 
 ## Further Testing
 1. Extensive browser testing was conducted across Google Chrome, Internet Explorer, Microsoft Edge, and Safari.
@@ -150,7 +150,7 @@ Users of the website will be able to find information such as day working hours,
 4. The last section provides information about working hours and offers available on the site.
 5. At the bottom of the page, there's a footer containing contact email and phone information, as well as social media icons linking to different social media pages.
 
-![Home Page Screenshot Proof](readme-imges/screenshots/home-proof.png)
+![Home Page Screenshot Proof](readme-images/screenshots/home-proof.png)
 
 #### Coaches Page
 1. Clicking on the dumbbell icon in the navigation header redirects the user to the coaches page.
@@ -158,7 +158,7 @@ Users of the website will be able to find information such as day working hours,
 3. Users encounter images of each coach along with a brief autobiography and their weekly working hours.
 4. The footer at the bottom of the page mirrors that of the home page, containing contact information and social media links.
 
-![Coaches Page Screenshot Proof](readme-imges/screenshots/coach-proof.png)
+![Coaches Page Screenshot Proof](readme-images/screenshots/coach-proof.png)
 
 #### Contact Us Page
 1. Clicking on the arrow icon in the navigation header directs the user to the sign-up page.
@@ -172,7 +172,7 @@ Users of the website will be able to find information such as day working hours,
 9. The footer at the bottom of the page remains consistent with contact information and social media links.
 
 
-![Contact Us Page Screenshot Proof](readme-imges/screenshots/contact-proof.png)
+![Contact Us Page Screenshot Proof](readme-images/screenshots/contact-proof.png)
  
  ## Deployment
  

@@ -1,9 +1,8 @@
 # Online Monster
-Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
+Welcome to the [Online Monster Website](https://ivost98.github.io/fitness1/)
 
  This platform is designed to provide you with resources and guidance on your fitness journey. Specialize in supporting individuals facing disabling diseases online, on their journey to better health and well-being.
- 
-  Users of the website it will be able to find information as: day working hours, information about the team, what offer the website, biography about the coaches, conctact and sign up form.
+Users of the website will be able to find information such as day working hours, information about the team, what is offered on the website, a biography about the coaches, contact and sign-up form.
   
   ![Responsive Screenshot](readme-imges/screenshots/responsive.png)
 
@@ -19,13 +18,12 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 
 ## User Stories
 
-* As a fitness enthusiast with disabling diseases seeking personalized training solutions for individuals facing challenges in traditional gym settings and with trainers, my objective is to explore Online Monster's website. I aim to understand its approach and offerings thoroughly.
-* My primary goal is to gain insights into Online Monster's specialized training offers for individuals confronting disabling diseases. Additionally, I seek clarity on how Online Monster conducts its training sessions, because of my diseases i would like to be everything online. I am interested in understanding their working hours, building trust in their expertise, and learning more about their team. 
+* As a user looking for personalized training solutions, I'm interested in exploring Online Monster's website to understand its approach and offerings thoroughly.
+* My primary goal is to gain insights into Online Monster's specialized training offers for individuals with unique challenges. Additionally, I'm keen on understanding how Online Monster conducts its training sessions, as I prefer online training. I am also interested in knowing their working hours, building trust in their expertise, and learning more about their team. 
 * Ultimately, I aim to make an informed decision about which coach to work with for my future fitness journey, addressing my unique challenges in training.
+
 ## Section Personal Training
-
-[Тhe sections below is relative to the Home Page](https://ivost98.github.io/fitness1/)
-
+### [Тhe sections below are relative to the Home Page](https://ivost98.github.io/fitness1/)
 
 * The section provides a captivating image of a coach assisting a client, designed to grab the user's attention.
 * Text is presented in black and red, ensuring optimal contrast with the background.
@@ -36,12 +34,12 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 
 ## Section About Us
 
-* Against a black background, red and white text effectively contrasts with the preceding section and the section below.
+* Against a black background, red and white text effectively contrast with the preceding section and the section below.
 * The "About Us" section elucidates how coaches will assist users through online sessions, emphasizing the organization's commitment to personalized support.
 
 ![Second Section Screenshot](readme-imges/screenshots/second-section.png)
 
-## Section We offer and Working time
+## Section We offer & Working time
 
 * The "We Offer" section, with its contrast of black and red text, provides comprehensive information about the website's offerings.
 * Conversely, the "Working Time" section, also employing the same color scheme, specifies operational hours, ensuring clarity regarding accessibility.
@@ -57,7 +55,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 ![Footer Screenshot](readme-imges/screenshots/footer.png)
   
 
-  [Тhe sections below is relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
+  ### [Тhe sections below are relative to the Coaches Page](https://ivost98.github.io/fitness1/coaches.html)
 
   ## Coaches File
 
@@ -90,7 +88,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 
 ## Color
 * The project's primary color palette comprises black, white, and red, meticulously selected to evoke a sense of professionalism and dynamism.
-* The idea for the three different color scheme was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
+* The idea for the three different color schemes was taken from [Adobe Color](https://color.adobe.com/create/color-wheel)
 
 ## Typography
 * The chosen font, Black 900 in a sans-serif style, has been carefully selected to maintain consistency and improve readability across the entire project.
@@ -100,7 +98,7 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 * [For page Coaches](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/coaches.png)
 * [For page Contact us](https://github.com/IvoSt98/fitness1/blob/main/readme-imges/wireframes/contactus.png)
 
-## Tehnology Used
+## Technology Used
 * [HTML5](https://de.wikipedia.org/wiki/HTML5) and [CSS3](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) were employed for code development. 
 
 * [Google Fonts](https://fonts.google.com/) provided styling for the text elements.
@@ -121,10 +119,10 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 
 ## Bugs
 
-* The bug was that i just copied and pasted the content,and didn't change the ids with class atributes. The bug was fixed and everything working normal.
+* The bug was that I just copied and pasted the content, and didn't change the IDs with class attributes. The bug was fixed and everything working normally.
 [The bug code](https://github.com/IvoSt98/fitness1/commit/713f4563b8baa15b1812f484e9e4bd5f1da062e5)
 
-* Second bug was that the nav elements was without closing tag this creates bug with which when you clike somewhere on the page it send you to the Contact Us file. 
+* The second bug was that the nav elements were without a closing tag this creates a bug with which when you click somewhere on the page it sends you to the Contact Us file.
 [The bug code](https://github.com/IvoSt98/fitness1/commit/aee94a5955128881246b1651fe07260af20d2b09#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
 
 ### About Home page
@@ -167,11 +165,12 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 2. The navigation bar retains its appearance from the home page, with the underline now below the arrow icon.
 3. Users are presented with a sign-up form and a background image.
 4. Upon clicking the SUBMIT button, users are prompted first to fill in their first name.
-5. After fill in their first name and they try to press the SUBMIT button, users will be prompted to fill in their last name before they can continue.
-6. After fill in their last name and they try to press the SUBMIT button, users will be prompted to fill in their email before they can continue.
-7. After fill in their email and they try to press the SUBMIT button, users will be prompted to fill in one of the three coaches before they can continue.
+5. After filling in their first name and trying to press the SUBMIT button, users will be prompted to fill in their last name before they can continue.
+6. After filling in their last name and trying to press the SUBMIT button, users will be prompted to fill in their email before they can continue.
+7. After filling in their email and they try to press the SUBMIT button, users will be prompted to fill in one of the three coaches before they can continue.
 8. Upon selecting a coach and pressing the SUBMIT button, the sign-up form is accepted.
 9. The footer at the bottom of the page remains consistent with contact information and social media links.
+
 
 ![Contact Us Page Screenshot Proof](readme-imges/screenshots/contact-proof.png)
  
@@ -181,12 +180,12 @@ Welcome to [Online Monster Website](https://ivost98.github.io/fitness1/)
 The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/IvoSt98/fitness1?tab=readme-ov-file)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
--Alternatively Click [Here](https://github.com/IvoSt98/fitness1/settings) for a GIF demonstrating the process starting from Step 2.
+2. At the top of the Repository (not the top of the page), locate the "Settings" Button on the menu.
+-Alternatively, Click [Here](https://github.com/IvoSt98/fitness1/settings) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4 .Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com/IvoSt98/fitness1?tab=readme-ov-file) in the "GitHub Pages" section, it will be under the name Depployments.
+6. Scroll back down through the page to locate the now published site [link](https://github.com/IvoSt98/fitness1?tab=readme-ov-file) in the "GitHub Pages" section, it will be under the name Deployments.
 
 
 ## Forking the GitHub Repository
@@ -194,7 +193,7 @@ The project was deployed to GitHub Pages using the following steps...
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
 1. Log in to GitHub and locate the GitHub Repository
-2. At the top of the [Repository](https://github.com/IvoSt98/fitness1)  between Watch and Star btuons on the menu, is locate the "Fork" Button.
+2. At the top of the [Repository](https://github.com/IvoSt98/fitness1) between the Watch and Star buttons on the menu, is the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
@@ -222,16 +221,16 @@ git clone https://github.com/IvoSt98/fitness1"
 
 "> Unpacking objects: 100% (10/10), done."
 
-Click [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+Click [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures of some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 
 ### Content
-* The code to make social media links was taken from [Love Runnign project](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html) 
-* The code for the asterix selector was taken form [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.2-add-stylesheet-with-starter-styles/assets/css/style.css)
-* To code to center the sign up form was used from [MDN Web Docs :](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
+* The code to make social media links was taken from the [Love Running project](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html) 
+* The code for the  asterisk selector was taken from [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.2-add-stylesheet-with-starter-styles/assets/css/style.css)
+* To code to center the sign-up form was used from [MDN Web Docs :](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
 * The idea for the README.md file is from [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME?tab=readme-ov-file#typography)
 
 ### Media
-* The images used in the website was taken from [Pexels](https://www.pexels.com/collections/at-the-gym-bx2voen/)
+* The images used in the website were taken from [Pexels](https://www.pexels.com/collections/at-the-gym-bx2voen/)
 * The screenshot images for Further Testing were made with [Movavi](https://www.movavi.com/mac/)

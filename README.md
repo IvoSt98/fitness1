@@ -66,7 +66,7 @@ Users of the website will be able to find information such as day working hours,
   ![Coach John Smith](readme-images/screenshots/john.png)
   ![Coach Katerina Snow](readme-images/screenshots/katerina.png)
 
-  [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
+  ### [Тhe sections below relative to the Contact Us Page](https://ivost98.github.io/fitness1/contactus.html)
 
   ## Sign Up and Choose a Coach
 
